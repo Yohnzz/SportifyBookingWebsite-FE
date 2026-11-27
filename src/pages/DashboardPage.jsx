@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import { getErrorMessage, ticketsApi, userDashboardApi } from '../api'
 import Icon from '../components/ui/Icon'
 import PenyewaSidebar from '../components/ui/PenyewaSidebar'
@@ -111,6 +111,7 @@ function countdownLabel(dateString, startTime) {
 
 export default function DashboardPage() {
   const { user, logout } = useAuth()
+  const navigate = useNavigate()
 
   const [summary, setSummary] = useState(null)
   const [activeBookings, setActiveBookings] = useState([])
@@ -120,6 +121,13 @@ export default function DashboardPage() {
   const [filter, setFilter] = useState('Semua Status')
 
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
+
+  // Keluar Akun: bersihkan sesi lalu ke landing page (guest).
+  async function handleLogout() {
+    // bersihkan sesi, lalu ke landing page (guest); jangan menyisakan /dashboard terproteksi.
+    await logout()
+    navigate('/', { replace: true })
+  }
   const [status, setStatus] = useState('loading')
   const [error, setError] = useState(null)
 
@@ -203,7 +211,7 @@ export default function DashboardPage() {
       <PenyewaSidebar
         user={user}
         activeCount={activeBookingCount}
-        onLogout={logout}
+        onLogout={handleLogout}
         isOpen={isSidebarOpen}
         onClose={() => setIsSidebarOpen(false)}
       />

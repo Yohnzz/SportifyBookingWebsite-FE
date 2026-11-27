@@ -1,8 +1,9 @@
 import { useEffect } from 'react'
-import { Route, Routes, useLocation } from 'react-router-dom'
+import { Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import Footer from './components/layout/Footer'
 import Navbar from './components/layout/Navbar'
 import RequireAuth from './components/RequireAuth'
+import { useAuth } from './hooks/useAuth'
 import RequireRole from './components/RequireRole'
 import DashboardPage from './pages/DashboardPage'
 import FieldDetailPage from './pages/FieldDetailPage'
@@ -33,6 +34,21 @@ function ScrollManager() {
   return null
 }
 
+// Landing page hanya untuk guest; user login langsung ke dashboard.
+function LandingRoute() {
+  const { isAuthenticated, isBootstrapping } = useAuth()
+
+  if (isBootstrapping) {
+    return null
+  }
+
+  if (isAuthenticated) {
+    return <Navigate to="/dashboard" replace />
+  }
+
+  return <HomePage />
+}
+
 export default function App() {
   const location = useLocation()
   // Halaman Login & Register tampil mandiri: tanpa header & footer, hanya form.
@@ -47,7 +63,7 @@ export default function App() {
 
       <div className="flex flex-1 flex-col">
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/" element={<LandingRoute />} />
           <Route path="/lapangan/:slug" element={<FieldDetailPage />} />
           <Route path="/login" element={<LoginPage />} />
           <Route path="/forgot-password" element={<ForgotPasswordPage />} />

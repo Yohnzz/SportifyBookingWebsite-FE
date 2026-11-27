@@ -14,7 +14,8 @@ export default function RequireAuth() {
   }
 
   if (!isAuthenticated) {
-    return <Navigate to="/login" replace state={{ from: location }} />
+    // logged-out -> landing page (guest); tidak berebut redirect dengan logout->'/'.
+    return <Navigate to="/" replace />
   }
 
   return <Outlet />
