@@ -10,6 +10,7 @@ import FieldDetailPage from './pages/FieldDetailPage'
 import ForgotPasswordPage from './pages/ForgotPasswordPage'
 import ResetPasswordPage from './pages/ResetPasswordPage'
 import HomePage from './pages/HomePage'
+import KatalogLapanganPage from './pages/KatalogLapanganPage'
 import LoginPage from './pages/LoginPage'
 import NotFoundPage from './pages/NotFoundPage'
 import RegisterPage from './pages/RegisterPage'
@@ -54,7 +55,7 @@ export default function App() {
   // Halaman Login & Register tampil mandiri: tanpa header & footer, hanya form.
   const isAuthPage = location.pathname === '/login' || location.pathname === '/register'
   // Dashboard penyewa pakai sidebar sendiri; sembunyikan navbar/footer app.
-  const hideChrome = isAuthPage || location.pathname === '/dashboard'
+  const hideChrome = isAuthPage || location.pathname === '/dashboard' || location.pathname === '/katalog-lapangan'
 
   return (
     <div className="flex min-h-screen flex-col">
@@ -74,6 +75,7 @@ export default function App() {
             {/* Penyewa dulu; admin & petugas ditambahkan terpisah setelah penyewa selesai. */}
             <Route element={<RequireRole allowedRoles={['penyewa']} />}>
               <Route path="/dashboard" element={<DashboardPage />} />
+              <Route path="/katalog-lapangan" element={<KatalogLapanganPage />} />
             </Route>
           </Route>
 

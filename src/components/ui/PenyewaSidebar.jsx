@@ -6,7 +6,10 @@ import { initials } from '../../lib/format'
 // Sementara hanya Dashboard yang ditampilkan & aktif (hijau); menu lain belum
 // dibuatkan desain, akan ditambahkan satu per satu. (Yang belum ada halaman
 // targetnya memakai `#` / no-op sampai disambungkan.)
-const menuItems = [{ label: 'Dashboard', to: '/dashboard', icon: 'space_dashboard', end: true }]
+const menuItems = [
+  { label: 'Dashboard', to: '/dashboard', icon: 'space_dashboard', end: true },
+  { label: 'Katalog Lapangan', to: '/katalog-lapangan', icon: 'grid_view' },
+]
 
 const navLinkClass = ({ isActive }) =>
   `flex items-center gap-3 rounded-lg px-3 py-2.5 transition-all ${
