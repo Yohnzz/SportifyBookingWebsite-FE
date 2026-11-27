@@ -27,13 +27,13 @@ export default function Navbar() {
 
   return (
     <header
-      className={`sticky top-0 z-50 transition-[background-color,backdrop-filter,border-color,box-shadow] duration-300 ${
+      className={`sticky top-0 z-50 w-full transition-[background-color,backdrop-filter,border-color,box-shadow] duration-300 ${
         isScrolled
           ? 'border-b border-outline-variant/50 bg-white/75 backdrop-blur-md'
           : 'border-b border-outline-variant bg-white shadow-[0_1px_8px_rgba(0,0,0,0.04)]'
       }`}
     >
-      <div className="mx-auto flex h-16 w-full max-w-[1200px] items-center justify-between gap-3 px-4 lg:px-6">
+      <div className="mx-auto flex h-16 w-full max-w-[1200px] items-center justify-between gap-3 px-4 sm:px-6 lg:px-8">
         <Link to="/" className="flex shrink-0 items-center" aria-label="GOR - Beranda">
           <img src="/images/gor-logo.png" alt="GOR Eco Sports" className="h-10 w-auto lg:h-11" />
         </Link>

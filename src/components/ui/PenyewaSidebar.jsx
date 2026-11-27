@@ -40,7 +40,6 @@ export default function PenyewaSidebar({
           <div className="flex h-16 items-center justify-between px-4">
             <Link to="/dashboard" className="flex items-center gap-2.5" onClick={onClose}>
               <img src="/images/gor-logo.png" alt="GOR Eco Sports" className="h-8 w-auto" />
-              <span className="text-label-sm font-bold uppercase tracking-wider text-secondary">Booking Hub</span>
             </Link>
             <button
               type="button"
