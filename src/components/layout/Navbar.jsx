@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { Link, NavLink, useLocation } from 'react-router-dom'
 import { useAuth } from '../../hooks/useAuth'
 import { initials } from '../../lib/format'
-import { buttonPrimary } from '../../lib/ui'
+import { buttonDanger, buttonPrimary } from '../../lib/ui'
 import Icon from '../ui/Icon'
 
 const navItems = [
@@ -88,7 +88,8 @@ export default function Navbar() {
                 </span>
               </Link>
 
-              <button type="button" onClick={logout} className="hidden text-label-md text-on-surface-variant hover:text-error lg:block">
+              <button type="button" onClick={logout} className={`hidden lg:inline-flex ${buttonDanger}`}>
+                <Icon name="logout" className="text-[18px]" />
                 Keluar
               </button>
             </>
@@ -124,11 +125,8 @@ export default function Navbar() {
               </Link>
             ))}
             {isAuthenticated && (
-              <button
-                type="button"
-                onClick={logout}
-                className="rounded-lg px-3 py-2.5 text-left text-label-lg text-error transition hover:bg-error-container"
-              >
+              <button type="button" onClick={logout} className={`mt-1 w-full justify-start ${buttonDanger}`}>
+                <Icon name="logout" className="text-[18px]" />
                 Keluar
               </button>
             )}

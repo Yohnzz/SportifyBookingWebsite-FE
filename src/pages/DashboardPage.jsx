@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import Icon from '../components/ui/Icon'
 import { useAuth } from '../hooks/useAuth'
 import { initials } from '../lib/format'
-import { buttonGhost, cardClass } from '../lib/ui'
+import { buttonDanger, cardClass } from '../lib/ui'
 
 const detailItems = [
   ['Username', (user) => user?.username],
@@ -23,7 +23,7 @@ export default function DashboardPage() {
             Halaman ini hanya bisa dibuka setelah login (token dikirim lewat header Bearer).
           </p>
         </div>
-        <button type="button" onClick={logout} className={buttonGhost}>
+        <button type="button" onClick={logout} className={buttonDanger}>
           <Icon name="logout" className="text-[18px]" />
           Keluar
         </button>
