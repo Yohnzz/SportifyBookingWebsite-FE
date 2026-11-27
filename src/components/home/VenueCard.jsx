@@ -1,15 +1,47 @@
 import { useState } from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import { facilityIcon, fieldFallbackImage, fieldImage, formatRupiah, lowestPrice } from '../../lib/format'
 import Icon from '../ui/Icon'
 
+// Elemen interaktif di dalam card yang tidak boleh memicu navigasi kartu
+const INTERACTIVE_SELECTOR = 'a, button, input, label, textarea, select'
+
 export default function VenueCard({ field }) {
   const [isFavorite, setIsFavorite] = useState(false)
+  const navigate = useNavigate()
   const price = lowestPrice(field)
   const fallback = fieldFallbackImage(field)
+  const detailHref = `/lapangan/${field.slug}`
+
+  function goToDetail(event) {
+    // biarkan tombol/tautan di dalam card menangani kliknya sendiri
+    if (event.target instanceof Element && event.target.closest(INTERACTIVE_SELECTOR)) {
+      return
+    }
+
+    navigate(detailHref)
+  }
+
+  function handleKeyDown(event) {
+    if (event.target !== event.currentTarget) {
+      return
+    }
+
+    if (event.key === 'Enter' || event.key === ' ') {
+      event.preventDefault()
+      navigate(detailHref)
+    }
+  }
 
   return (
-    <article className="group flex w-[85vw] max-w-[340px] shrink-0 snap-start flex-col overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-outline-variant/50 transition-all duration-300 hover:shadow-xl sm:w-[calc(50%-12px)] sm:max-w-none lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)]">
+    <article
+      role="link"
+      tabIndex={0}
+      aria-label={`Lihat detail ${field.name}`}
+      onClick={goToDetail}
+      onKeyDown={handleKeyDown}
+      className="group flex w-[85vw] max-w-[340px] shrink-0 snap-start cursor-pointer flex-col overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-outline-variant/50 transition-all duration-300 hover:shadow-xl sm:w-[calc(50%-12px)] sm:max-w-none lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)]"
+    >
       <div className="relative aspect-[16/10] w-full overflow-hidden bg-surface-container">
         <img
           src={fieldImage(field)}
@@ -35,7 +67,10 @@ export default function VenueCard({ field }) {
           type="button"
           aria-label={isFavorite ? 'Hapus dari favorit' : 'Simpan ke favorit'}
           aria-pressed={isFavorite}
-          onClick={() => setIsFavorite((favorite) => !favorite)}
+          onClick={(event) => {
+            event.stopPropagation()
+            setIsFavorite((favorite) => !favorite)
+          }}
           className={`absolute right-3 top-3 grid h-8 w-8 place-items-center rounded-full bg-white/80 backdrop-blur-sm transition-colors ${
             isFavorite ? 'text-error' : 'text-on-surface hover:text-error'
           }`}
@@ -85,7 +120,8 @@ export default function VenueCard({ field }) {
           </div>
 
           <Link
-            to={`/lapangan/${field.slug}`}
+            to={detailHref}
+            onClick={(event) => event.stopPropagation()}
             className="shrink-0 whitespace-nowrap rounded-xl bg-surface-container px-3 py-2 text-label-md font-semibold text-on-surface transition-all hover:bg-secondary hover:text-on-secondary"
           >
             Lihat Detail
