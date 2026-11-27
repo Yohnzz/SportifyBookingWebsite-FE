@@ -39,7 +39,8 @@ export default function VenueSection({ filters, categories = [] }) {
 
   useEffect(() => {
     let isMounted = true
-    setStatus('loading')
+    // jangan kosongkan data; skeleton hanya kalau belum ada apa pun
+    setStatus((previous) => (previous === 'ready' ? 'ready' : 'loading'))
     setError(null)
 
     fieldsApi
@@ -178,7 +179,7 @@ export default function VenueSection({ filters, categories = [] }) {
           ref={scrollerRef}
           className="no-scrollbar -mx-4 flex snap-x snap-mandatory gap-6 overflow-x-auto scroll-smooth px-4 pb-2 lg:mx-0 lg:px-0"
         >
-          {status === 'loading'
+          {status === 'loading' && venues.length === 0
             ? Array.from({ length: 3 }).map((_, index) => <SkeletonCard key={index} />)
             : venues.map((venue) => <VenueCard key={venue.id} field={venue} />)}
         </div>

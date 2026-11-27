@@ -55,7 +55,8 @@ export default function KatalogLapanganPage() {
 
   // daftar lapangan dari backend
   const fetchFields = useCallback(async () => {
-    setStatus('loading')
+    // jangan kosongkan data; skeleton hanya kalau belum ada apa pun
+    setStatus((previous) => (previous === 'ready' ? 'ready' : 'loading'))
     setError(null)
 
     try {
@@ -273,7 +274,7 @@ export default function KatalogLapanganPage() {
 
             {/* grid */}
             <section className="px-4 pt-0 pb-8 sm:px-6 lg:px-8">
-              {status === 'loading' ? (
+              {status === 'loading' && sortedFields.length === 0 ? (
                 <GridSkeleton />
               ) : status === 'error' ? (
                 <div className="rounded-2xl bg-white p-6 text-center shadow-sm ring-1 ring-outline-variant/40">

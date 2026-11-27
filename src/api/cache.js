@@ -10,6 +10,7 @@ const STORAGE_KEY = 'gor.api-cache.v1'
 const DEFAULT_TTL_MS = 60_000
 
 const memoryCache = new Map()
+const pendingRequests = new Map()
 
 function getStorage() {
   try {
@@ -83,6 +84,7 @@ export function setCached(key, value, ttlMs = DEFAULT_TTL_MS) {
 
 export function clearApiCache() {
   memoryCache.clear()
+  pendingRequests.clear()
 
   try {
     getStorage()?.removeItem(STORAGE_KEY)
@@ -92,7 +94,29 @@ export function clearApiCache() {
 }
 
 /**
- * GET ter-cache. `api` = instance axios. Kembalikan `response.data`.
+ * Ambil cache tanpa memeriksa kedaluwarsa (untuk stale-while-revalidate).
+ */
+export function getStale(key) {
+  const fromMemory = memoryCache.get(key)
+  if (fromMemory) {
+    return { hit: true, value: fromMemory.value }
+  }
+
+  const store = readPersisted()
+  if (store[key]) {
+    return { hit: true, value: store[key].value }
+  }
+
+  return { hit: false, value: null }
+}
+
+/**
+ * GET ter-cache + **in-flight dedup** + **stale-while-revalidate**.
+ * - cache segar -> kembalikan cache, tanpa request.
+ * - ada pending identik -> reuse promise yang sama (tidak request dobel).
+ * - ada cache basi -> kembalikan cache segera, revalidate di background (`swr`).
+ * - tidak ada cache -> request backend, simpan, kembalikan.
+ * `api` = instance axios. Kembalikan `response.data`.
  */
 export async function cachedGet(api, url, { params, ttlMs = DEFAULT_TTL_MS } = {}) {
   const key = makeKey(url, params)
@@ -102,10 +126,31 @@ export async function cachedGet(api, url, { params, ttlMs = DEFAULT_TTL_MS } = {
     return cached.value
   }
 
-  const response = await api.get(url, { params })
-  const value = response.data
+  // in-flight dedup: request identik yang sedang berjalan di-reuse
+  if (pendingRequests.has(key)) {
+    return pendingRequests.get(key)
+  }
 
-  setCached(key, value, ttlMs)
+  const request = api
+    .get(url, { params })
+    .then((response) => {
+      const value = response.data
+      setCached(key, value, ttlMs)
+      return value
+    })
+    .finally(() => {
+      pendingRequests.delete(key)
+    })
 
-  return value
+  pendingRequests.set(key, request)
+
+  // stale-while-revalidate: kalau ada cache basi, tampilkan dulu + revalidate background
+  const stale = getStale(key)
+  if (stale.hit) {
+    // pastikan error revalidate tidak unhandled; promise `request` tetap disimpan
+    request.catch(() => {})
+    return stale.value
+  }
+
+  return request
 }
