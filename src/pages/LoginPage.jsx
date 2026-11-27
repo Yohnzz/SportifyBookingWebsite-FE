@@ -198,7 +198,9 @@ export default function LoginPage() {
                 <label htmlFor="password" className="block text-xs font-medium text-[#1F2937]">
                   Kata Sandi <span className="text-[#DC2626]">*</span>
                 </label>
-                <span className="text-xs font-medium text-[#16A34A]">Lupa Kata Sandi?</span>
+                <Link to="/forgot-password" className="text-xs font-medium text-[#16A34A] transition-colors hover:text-[#15803D]">
+                  Lupa Kata Sandi?
+                </Link>
               </div>
               <div className="relative">
                 <div className="pointer-events-none absolute inset-y-0 left-0 flex items-center pl-3.5 text-[#6B7280]">

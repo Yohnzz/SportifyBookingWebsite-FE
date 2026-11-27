@@ -5,6 +5,8 @@ import Navbar from './components/layout/Navbar'
 import RequireAuth from './components/RequireAuth'
 import DashboardPage from './pages/DashboardPage'
 import FieldDetailPage from './pages/FieldDetailPage'
+import ForgotPasswordPage from './pages/ForgotPasswordPage'
+import ResetPasswordPage from './pages/ResetPasswordPage'
 import HomePage from './pages/HomePage'
 import LoginPage from './pages/LoginPage'
 import NotFoundPage from './pages/NotFoundPage'
@@ -41,6 +43,8 @@ export default function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/lapangan/:slug" element={<FieldDetailPage />} />
           <Route path="/login" element={<LoginPage />} />
+          <Route path="/forgot-password" element={<ForgotPasswordPage />} />
+          <Route path="/reset-password" element={<ResetPasswordPage />} />
           <Route path="/register" element={<RegisterPage />} />
 
           <Route element={<RequireAuth />}>
