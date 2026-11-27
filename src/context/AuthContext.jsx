@@ -58,8 +58,16 @@ export function AuthProvider({ children }) {
     }
   }, [])
 
-  const login = useCallback(async (credentials) => {
+  const login = useCallback(async (credentials, { remember = true } = {}) => {
     const response = await authApi.login(credentials)
+    tokenStorage.set(response.data.token, remember)
+    setUser(response.data.user)
+
+    return response.data.user
+  }, [])
+
+  const register = useCallback(async (payload) => {
+    const response = await authApi.register(payload)
     tokenStorage.set(response.data.token)
     setUser(response.data.user)
 
@@ -83,10 +91,11 @@ export function AuthProvider({ children }) {
       isAuthenticated: Boolean(user),
       isBootstrapping,
       login,
+      register,
       logout,
       refreshUser,
     }),
-    [user, isBootstrapping, login, logout, refreshUser],
+    [user, isBootstrapping, login, register, logout, refreshUser],
   )
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>

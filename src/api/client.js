@@ -3,9 +3,19 @@ import axios from 'axios'
 const TOKEN_KEY = 'sportify.token'
 
 export const tokenStorage = {
-  get: () => localStorage.getItem(TOKEN_KEY),
-  set: (token) => localStorage.setItem(TOKEN_KEY, token),
-  clear: () => localStorage.removeItem(TOKEN_KEY),
+  // "Ingat saya": persisten (localStorage) vs sesi (sessionStorage).
+  get: () => localStorage.getItem(TOKEN_KEY) ?? sessionStorage.getItem(TOKEN_KEY),
+  set: (token, persist = true) => {
+    const target = persist ? localStorage : sessionStorage
+    const other = persist ? sessionStorage : localStorage
+
+    other.removeItem(TOKEN_KEY)
+    target.setItem(TOKEN_KEY, token)
+  },
+  clear: () => {
+    localStorage.removeItem(TOKEN_KEY)
+    sessionStorage.removeItem(TOKEN_KEY)
+  },
 }
 
 /**
