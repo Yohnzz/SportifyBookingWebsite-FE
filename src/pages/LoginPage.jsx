@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Link, useLocation, useNavigate } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 import { getErrorMessage } from '../api'
 import Icon from '../components/ui/Icon'
 import { useAuth } from '../hooks/useAuth'
@@ -11,7 +11,6 @@ const FOREST = 'bg-[#14532D]'
 export default function LoginPage() {
   const { login } = useAuth()
   const navigate = useNavigate()
-  const location = useLocation()
 
   const [form, setForm] = useState({ username: '', password: '' })
   const [rememberMe, setRememberMe] = useState(true)
@@ -20,10 +19,7 @@ export default function LoginPage() {
   const [fieldErrors, setFieldErrors] = useState({})
   const [isSubmitting, setIsSubmitting] = useState(false)
 
-  // Setelah login berhasil, kembali ke halaman pertama (beranda) kecuali
-  // memang diarahkan ke halaman lain yang meminta login. Tombol "Masuk" di
-  // halaman pertama otomatis berubah menjadi profil karena state auth global.
-  const redirectTo = location.state?.from?.pathname ?? '/'
+  // Setelah login berhasil, arahkan ke dashboard (bukan landing page).
 
   function handleChange(event) {
     const { name, value } = event.target
@@ -54,7 +50,7 @@ export default function LoginPage() {
 
     try {
       await login({ username: form.username.trim(), password: form.password }, { remember: rememberMe })
-      navigate(redirectTo === '/login' ? '/' : redirectTo, { replace: true })
+      navigate('/dashboard', { replace: true })
     } catch (requestError) {
       // Kredensial salah ditampilkan sebagai alert di halaman, bukan di toast.
       setError(

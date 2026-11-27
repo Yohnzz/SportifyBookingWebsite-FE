@@ -115,9 +115,8 @@ export default function RegisterPage() {
         password_confirmation: form.password_confirmation,
       })
 
-      // Registrasi + token otomatis tersimpan; kembali ke halaman pertama.
-      // Tombol "Masuk" di halaman pertama otomatis berubah menjadi profil.
-      navigate('/', { replace: true })
+      // Registrasi + token otomatis tersimpan; arahkan ke dashboard.
+      navigate('/dashboard', { replace: true })
     } catch (requestError) {
       setError(getErrorMessage(requestError, 'Registrasi gagal. Periksa kembali data Anda.'))
     } finally {
