@@ -5,7 +5,7 @@ import Icon from '../ui/Icon'
 import VenueCard from './VenueCard'
 
 const SkeletonCard = () => (
-  <div className="w-[85vw] max-w-[340px] shrink-0 animate-pulse overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-outline-variant/40 sm:w-[calc(50%-12px)] sm:max-w-none lg:w-[calc(25%-18px)]">
+  <div className="w-[85vw] max-w-[340px] shrink-0 animate-pulse overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-outline-variant/40 sm:w-[calc(50%-12px)] sm:max-w-none lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)]">
     <div className="aspect-[16/10] w-full bg-surface-container" />
     <div className="space-y-3 p-5">
       <div className="h-3 w-1/2 rounded bg-surface-container" />

@@ -1,11 +1,12 @@
 import { Fragment, useState } from 'react'
 import { formatDateLong, toDateInputValue } from '../../lib/format'
 import Icon from '../ui/Icon'
+import SelectMenu from '../ui/SelectMenu'
 
 const quickStats = [
   { icon: 'verified_user', label: 'Jaminan Ketersediaan 100%' },
   { icon: 'bolt', label: 'Verifikasi Instan QR Code' },
-  { icon: 'thumb_up', label: '40+ Venue Terpilih di Malang Raya' },
+  { icon: 'thumb_up', label: 'Venue Terpilih di Berbagai Kota' },
 ]
 
 export default function HeroSection({ categories = [], onSearch }) {
@@ -19,8 +20,8 @@ export default function HeroSection({ categories = [], onSearch }) {
   }
 
   return (
-    <section className="relative isolate overflow-hidden bg-primary">
-      <div className="absolute inset-0 -z-10">
+    <section className="relative isolate z-10 bg-primary">
+      <div className="absolute inset-0 -z-10 overflow-hidden">
         <img
           src="/images/hero-arena.jpg"
           alt="Arena olahraga indoor dengan lapangan sintetis dan lampu stadion"
@@ -64,28 +65,18 @@ export default function HeroSection({ categories = [], onSearch }) {
               </div>
             </div>
 
-            <div className="relative flex items-center gap-2.5 rounded-xl bg-surface-container-low/80 px-3.5 py-2.5 transition-colors focus-within:bg-surface-container-lowest md:col-span-3">
-              <Icon name="sports_soccer" className="text-[22px] text-secondary" />
-              <div className="flex w-full min-w-0 flex-col text-left">
-                <label htmlFor="hero-category" className="text-label-sm font-semibold uppercase tracking-wider text-on-surface-variant">
-                  Kategori
-                </label>
-                <select
-                  id="hero-category"
-                  value={category}
-                  onChange={(event) => setCategory(event.target.value)}
-                  className="w-full cursor-pointer appearance-none bg-transparent pr-4 text-body-md font-semibold text-on-surface outline-none"
-                >
-                  <option value="">Semua Kategori</option>
-                  {categories.map((item) => (
-                    <option key={item.id} value={item.slug}>
-                      {item.name}
-                    </option>
-                  ))}
-                </select>
-              </div>
-              <Icon name="expand_more" className="pointer-events-none absolute right-3 text-[18px] text-outline" />
-            </div>
+            <SelectMenu
+              id="hero-category"
+              label="Kategori"
+              icon="sports_soccer"
+              value={category}
+              onChange={setCategory}
+              className="md:col-span-3"
+              options={[
+                { value: '', label: 'Semua Kategori' },
+                ...categories.map((item) => ({ value: item.slug, label: item.name })),
+              ]}
+            />
 
             <div className="relative flex items-center gap-2.5 rounded-xl bg-surface-container-low/80 px-3.5 py-2.5 transition-colors focus-within:bg-surface-container-lowest md:col-span-3">
               <Icon name="calendar_today" className="text-[22px] text-secondary" />

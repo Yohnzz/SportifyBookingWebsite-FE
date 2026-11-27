@@ -26,7 +26,7 @@ export default function Footer() {
   return (
     <footer id="bantuan" className="mt-space-xl w-full border-t border-outline-variant/40 bg-white">
       <div className="mx-auto w-full max-w-[1200px] px-4 pb-6 pt-12 lg:px-6">
-        <div className="mb-10 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-5">
+        <div className="mb-10 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5">
           <div className="space-y-4 lg:col-span-2">
             <Link to="/" className="inline-flex items-center">
               <img src="/images/gor-logo.png" alt="GOR Eco Sports" className="h-12 w-auto" />
@@ -80,12 +80,15 @@ export default function Footer() {
             </ul>
           </div>
 
-          <div>
+          <div className="min-w-0">
             <h4 className="font-display text-headline-sm font-semibold text-on-surface">Kontak &amp; Bantuan</h4>
             <ul className="mt-4 space-y-2.5 text-body-md text-on-surface-variant">
               <li className="flex items-center gap-2">
                 <Icon name="mail" className="text-[18px] text-secondary" />
-                <a href="mailto:support@gorecosports.id" className="transition-colors hover:text-secondary">
+                <a
+                  href="mailto:support@gorecosports.id"
+                  className="min-w-0 break-words transition-colors hover:text-secondary"
+                >
                   support@gorecosports.id
                 </a>
               </li>

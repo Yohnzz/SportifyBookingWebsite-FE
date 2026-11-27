@@ -9,7 +9,7 @@ export default function VenueCard({ field }) {
   const fallback = fieldFallbackImage(field)
 
   return (
-    <article className="group flex w-[85vw] max-w-[340px] shrink-0 snap-start flex-col overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-outline-variant/50 transition-all duration-300 hover:shadow-xl sm:w-[calc(50%-12px)] sm:max-w-none lg:w-[calc(25%-18px)]">
+    <article className="group flex w-[85vw] max-w-[340px] shrink-0 snap-start flex-col overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-outline-variant/50 transition-all duration-300 hover:shadow-xl sm:w-[calc(50%-12px)] sm:max-w-none lg:w-[calc(33.333%-16px)] xl:w-[calc(25%-18px)]">
       <div className="relative aspect-[16/10] w-full overflow-hidden bg-surface-container">
         <img
           src={fieldImage(field)}
@@ -73,14 +73,14 @@ export default function VenueCard({ field }) {
           ))}
         </div>
 
-        <div className="mt-auto flex items-end justify-between gap-2 pt-2">
-          <div className="min-w-0">
+        <div className="mt-auto flex flex-wrap items-end justify-between gap-x-2 gap-y-3 pt-2">
+          <div>
             <span className="block text-label-sm text-on-surface-variant">Mulai dari</span>
-            <span className="flex items-baseline gap-1 whitespace-nowrap">
-              <span className="font-display text-price-lg font-extrabold leading-none text-secondary">
+            <span className="flex flex-wrap items-baseline gap-x-1">
+              <span className="whitespace-nowrap font-display text-price-lg font-extrabold leading-none text-secondary">
                 {price ? formatRupiah(price) : 'Hubungi venue'}
               </span>
-              {price && <span className="text-body-sm text-on-surface-variant">/ jam</span>}
+              {price && <span className="whitespace-nowrap text-body-sm text-on-surface-variant">/ jam</span>}
             </span>
           </div>
 
