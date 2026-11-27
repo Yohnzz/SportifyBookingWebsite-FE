@@ -3,14 +3,10 @@ import Icon from './Icon'
 import { initials } from '../../lib/format'
 
 // Sidebar penyewa sesuai desain stitch_sportify_ui_design_system (2).
-const menuItems = [
-  { label: 'Dashboard', to: '/dashboard', icon: 'space_dashboard', end: true },
-  { label: 'Katalog Lapangan', to: '/#lapangan', icon: 'sports_tennis' },
-  { label: 'Jadwal Booking', to: '/#lapangan', icon: 'calendar_month' },
-  { label: 'Booking Saya', to: '/dashboard', icon: 'confirmation_number', badgeKey: 'active' },
-  { label: 'Riwayat Transaksi', to: '/dashboard', icon: 'receipt_long' },
-  { label: 'Pusat Bantuan', to: '/#bantuan', icon: 'help_outline' },
-]
+// Sementara hanya Dashboard yang ditampilkan & aktif (hijau); menu lain belum
+// dibuatkan desain, akan ditambahkan satu per satu. (Yang belum ada halaman
+// targetnya memakai `#` / no-op sampai disambungkan.)
+const menuItems = [{ label: 'Dashboard', to: '/dashboard', icon: 'space_dashboard', end: true }]
 
 const navLinkClass = ({ isActive }) =>
   `flex items-center gap-3 rounded-lg px-3 py-2.5 transition-all ${
