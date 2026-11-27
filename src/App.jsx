@@ -37,11 +37,13 @@ export default function App() {
   const location = useLocation()
   // Halaman Login & Register tampil mandiri: tanpa header & footer, hanya form.
   const isAuthPage = location.pathname === '/login' || location.pathname === '/register'
+  // Dashboard penyewa pakai sidebar sendiri; sembunyikan navbar/footer app.
+  const hideChrome = isAuthPage || location.pathname === '/dashboard'
 
   return (
     <div className="flex min-h-screen flex-col">
       <ScrollManager />
-      {!isAuthPage && <Navbar />}
+      {!hideChrome && <Navbar />}
 
       <div className="flex flex-1 flex-col">
         <Routes>
@@ -63,7 +65,7 @@ export default function App() {
         </Routes>
       </div>
 
-      {!isAuthPage && <Footer />}
+      {!hideChrome && <Footer />}
     </div>
   )
 }

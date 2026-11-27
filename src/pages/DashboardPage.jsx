@@ -2,6 +2,7 @@ import { useCallback, useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { getErrorMessage, ticketsApi, userDashboardApi } from '../api'
 import Icon from '../components/ui/Icon'
+import PenyewaSidebar from '../components/ui/PenyewaSidebar'
 import { useAuth } from '../hooks/useAuth'
 import {
   categoryIcon,
@@ -10,6 +11,7 @@ import {
   fieldImage,
   formatDuration,
   formatRupiah,
+  initials,
 } from '../lib/format'
 import { cardClass } from '../lib/ui'
 
@@ -108,7 +110,7 @@ function countdownLabel(dateString, startTime) {
 }
 
 export default function DashboardPage() {
-  const { user } = useAuth()
+  const { user, logout } = useAuth()
 
   const [summary, setSummary] = useState(null)
   const [activeBookings, setActiveBookings] = useState([])
@@ -117,6 +119,7 @@ export default function DashboardPage() {
   const [qrData, setQrData] = useState(null)
   const [filter, setFilter] = useState('Semua Status')
 
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false)
   const [status, setStatus] = useState('loading')
   const [error, setError] = useState(null)
 
@@ -196,7 +199,17 @@ export default function DashboardPage() {
   })
 
   return (
-    <main className="mx-auto w-full max-w-[1200px] space-y-6 px-4 py-6 lg:space-y-8 lg:px-6 lg:py-8">
+    <div className="min-h-screen bg-surface">
+      <PenyewaSidebar
+        user={user}
+        activeCount={activeBookingCount}
+        onLogout={logout}
+        isOpen={isSidebarOpen}
+        onClose={() => setIsSidebarOpen(false)}
+      />
+      <div className="lg:pl-64">
+        <DashboardHeader user={user} onOpenSidebar={() => setIsSidebarOpen(true)} />
+        <main className="mx-auto w-full max-w-[1200px] space-y-6 px-4 py-6 lg:space-y-8 lg:px-6 lg:py-8">
       {/* Header penyewa + aksi cepat */}
       <section className="relative overflow-hidden rounded-2xl bg-white p-5 shadow-sm ring-1 ring-outline-variant/40 sm:p-6 lg:p-8">
         <div className="pointer-events-none absolute -right-16 -top-16 h-64 w-64 rounded-full bg-secondary-container/20 blur-3xl" />
@@ -331,7 +344,44 @@ export default function DashboardPage() {
           <div className={`${cardClass} p-5 text-body-sm text-on-surface-variant`}>Belum ada rekomendasi lapangan.</div>
         )}
       </section>
-    </main>
+        </main>
+      </div>
+    </div>
+  )
+}
+
+function DashboardHeader({ user, onOpenSidebar }) {
+  const role = user?.roles?.[0] ?? 'penyewa'
+
+  return (
+    <header className="sticky top-0 z-30 flex h-16 items-center justify-between gap-3 border-b border-outline-variant/40 bg-surface/85 px-4 backdrop-blur-xl sm:px-6">
+      <div className="flex items-center gap-3">
+        <button type="button" onClick={onOpenSidebar} className="grid h-9 w-9 place-items-center rounded-lg text-on-surface-variant transition hover:bg-surface-container-low hover:text-on-surface lg:hidden" aria-label="Buka menu">
+          <Icon name="menu" className="text-[20px]" />
+        </button>
+        <div className="flex items-center gap-1.5 text-label-md text-on-surface-variant">
+          <span className="hidden font-semibold text-outline sm:inline">GOR</span>
+          <Icon name="chevron_right" className="hidden text-[16px] text-outline sm:inline" />
+          <span className="font-bold text-primary">Dashboard Penyewa</span>
+        </div>
+      </div>
+
+      <div className="flex items-center gap-3">
+        <div className="hidden text-right leading-tight sm:block">
+          <p className="text-label-lg font-bold text-on-surface">{user?.name ?? 'Penyewa'}</p>
+          <div className="flex items-center justify-end gap-1">
+            <span className="h-1.5 w-1.5 rounded-full bg-secondary" />
+            <span className="text-label-sm font-semibold capitalize text-secondary">{role}</span>
+          </div>
+        </div>
+        <div className="relative">
+          <span className="grid h-9 w-9 place-items-center rounded-full bg-secondary-container text-label-md font-bold text-on-secondary-container shadow-sm ring-2 ring-surface-container-high">
+            {initials(user?.name)}
+          </span>
+          <span className="absolute bottom-0 right-0 h-2.5 w-2.5 rounded-full bg-secondary ring-2 ring-white" />
+        </div>
+      </div>
+    </header>
   )
 }
 
