@@ -3,6 +3,7 @@ import { Route, Routes, useLocation } from 'react-router-dom'
 import Footer from './components/layout/Footer'
 import Navbar from './components/layout/Navbar'
 import RequireAuth from './components/RequireAuth'
+import RequireRole from './components/RequireRole'
 import DashboardPage from './pages/DashboardPage'
 import FieldDetailPage from './pages/FieldDetailPage'
 import ForgotPasswordPage from './pages/ForgotPasswordPage'
@@ -52,7 +53,10 @@ export default function App() {
           <Route path="/register" element={<RegisterPage />} />
 
           <Route element={<RequireAuth />}>
-            <Route path="/dashboard" element={<DashboardPage />} />
+            {/* Penyewa dulu; admin & petugas ditambahkan terpisah setelah penyewa selesai. */}
+            <Route element={<RequireRole allowedRoles={['penyewa']} />}>
+              <Route path="/dashboard" element={<DashboardPage />} />
+            </Route>
           </Route>
 
           <Route path="*" element={<NotFoundPage />} />
