@@ -6,7 +6,11 @@ export default function RequireAuth() {
   const location = useLocation()
 
   if (isBootstrapping) {
-    return <p className="mx-auto w-full max-w-6xl flex-1 px-6 py-10 text-sm text-slate-500">Memeriksa sesi...</p>
+    return (
+      <p className="mx-auto w-full max-w-[1200px] flex-1 px-4 py-10 text-body-md text-on-surface-variant lg:px-6">
+        Memeriksa sesi...
+      </p>
+    )
   }
 
   if (!isAuthenticated) {

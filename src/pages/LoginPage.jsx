@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { getErrorMessage } from '../api'
+import Icon from '../components/ui/Icon'
 import { useAuth } from '../hooks/useAuth'
 import { alertClass, buttonPrimary, cardClass, inputClass, labelClass } from '../lib/ui'
 
@@ -35,9 +36,9 @@ export default function LoginPage() {
   }
 
   return (
-    <main className="mx-auto w-full max-w-md flex-1 px-6 py-12">
-      <h1 className="text-2xl font-bold text-slate-900">Masuk</h1>
-      <p className="mt-1 text-sm text-slate-500">Gunakan akun yang sudah terdaftar di backend.</p>
+    <main className="mx-auto w-full max-w-md flex-1 px-4 py-12 lg:px-6">
+      <h1 className="font-display text-headline-lg font-bold text-on-surface">Masuk</h1>
+      <p className="mt-1 text-body-md text-on-surface-variant">Gunakan akun yang sudah terdaftar di GOR.</p>
 
       <form className={`${cardClass} mt-6 flex flex-col gap-4 p-6`} onSubmit={handleSubmit}>
         {error && <p className={alertClass}>{error}</p>}
@@ -68,13 +69,14 @@ export default function LoginPage() {
         </label>
 
         <button type="submit" className={`${buttonPrimary} mt-1`} disabled={isSubmitting}>
+          <Icon name="login" className="text-[18px]" />
           {isSubmitting ? 'Memproses...' : 'Masuk'}
         </button>
       </form>
 
-      <p className="mt-4 text-sm text-slate-500">
+      <p className="mt-4 text-body-md text-on-surface-variant">
         Belum punya akun?{' '}
-        <Link to="/register" className="font-semibold text-emerald-700 hover:underline">
+        <Link to="/register" className="font-semibold text-secondary hover:underline">
           Daftar di sini
         </Link>
       </p>
