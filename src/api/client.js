@@ -1,5 +1,4 @@
 import axios from 'axios'
-import { clearApiCache } from './cache'
 
 const TOKEN_KEY = 'sportify.token'
 
@@ -48,7 +47,6 @@ api.interceptors.response.use(
     // Token kedaluwarsa / dicabut: bersihkan sesi lokal.
     if (error.response?.status === 401 && tokenStorage.get()) {
       tokenStorage.clear()
-      clearApiCache()
       window.dispatchEvent(new Event('sportify:unauthorized'))
     }
 

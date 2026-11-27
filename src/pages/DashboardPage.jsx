@@ -134,8 +134,7 @@ export default function DashboardPage() {
   const role = user?.roles?.[0] ?? 'penyewa'
 
   const load = useCallback(async () => {
-    // jangan kosongkan data; skeleton hanya kalau belum ada apa pun
-    setStatus((previous) => (previous === 'ready' ? 'ready' : 'loading'))
+    setStatus('loading')
     setError(null)
 
     try {
@@ -173,7 +172,7 @@ export default function DashboardPage() {
     load()
   }, [load])
 
-  if (status === 'loading' && !summary && recentBookings.length === 0) {
+  if (status === 'loading') {
     return <DashboardSkeleton />
   }
 

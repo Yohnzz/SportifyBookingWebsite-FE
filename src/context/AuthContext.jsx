@@ -1,6 +1,5 @@
 import { createContext, useCallback, useEffect, useMemo, useState } from 'react'
 import { authApi, tokenStorage } from '../api'
-import { clearApiCache } from '../api/cache'
 
 export const AuthContext = createContext(null)
 
@@ -61,7 +60,6 @@ export function AuthProvider({ children }) {
 
   const login = useCallback(async (credentials, { remember = true } = {}) => {
     const response = await authApi.login(credentials)
-    clearApiCache()
     tokenStorage.set(response.data.token, remember)
     setUser(response.data.user)
 
@@ -70,7 +68,6 @@ export function AuthProvider({ children }) {
 
   const register = useCallback(async (payload) => {
     const response = await authApi.register(payload)
-    clearApiCache()
     tokenStorage.set(response.data.token)
     setUser(response.data.user)
 
@@ -85,7 +82,6 @@ export function AuthProvider({ children }) {
     }
 
     tokenStorage.clear()
-    clearApiCache()
     setUser(null)
   }, [])
 

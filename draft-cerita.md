@@ -1,58 +1,485 @@
-# Yang Tak Ikut Berlayar
 
-CHAPTER I — KEPUTUSAN DI TERAS
+Berawal dari sebuah kisah tentang seorang pemuda asal Indonesia. Lebih tepatnya, ia tinggal di Desa Sungai Limau, sebuah desa yang ber		ada di Pulau Laut, Kabupaten Kotabaru, Kalimantan Selatan. Daerah ini dikenal memiliki pesona alam yang begitu memikat, mulai dari hamparan pantai berpasir putih, air laut yang jernih, hingga kekayaan terumbu karang yang menjadi daya tarik tersendiri bagi para wisatawan.
+Pemuda ini bernama Rizwel. Semasa kecil, Rizwel selalu menghabiskan hari-harinya dengan bermain di kawasan hutan yang tidak jauh dari tempat tinggalnya. Baginya, hutan bukanlah sekadar kumpulan pepohonan, melainkan bagian penting dari kehidupan masyarakat yang tinggal di sekitarnya.
+Kondisi alam Pulau Laut yang masih memiliki banyak kawasan hijau membuat kehidupan masyarakat di sekitarnya terasa begitu dekat dengan alam. Ayahnya yang bekerja sebagai petani memanfaatkan kesuburan tanah untuk menanam berbagai macam bahan makanan. Sementara itu, ibunya sering mengolah hasil kebun untuk memenuhi kebutuhan sehari-hari keluarga mereka.
+Kehidupan di Desa Sungai Limau berjalan begitu tenang dan sederhana. Suara deburan ombak dari kawasan pesisir berpadu harmonis dengan kicauan burung-burung yang terdengar dari balik rimbunnya pepohonan. Udara yang sejuk serta pemandangan alam yang masih asri menjadi bagian dari keseharian masyarakat setempat.
+Di bagian selatan Pulau Laut, terdapat kawasan pesisir yang menawarkan pesona pantai berpasir putih dengan air laut yang jernih dan kaya akan terumbu karang. Keindahan pantai tersebut semakin lengkap dengan kehadiran kawasan Hutan Perbukitan Lekke Tedong yang berdiri asri di sekitarnya, menghadirkan suasana alam yang sejuk dan hijau.
+Sementara itu, untuk menjangkau berbagai destinasi wisata bahari dan perbukitan di Pulau Laut dari daratan utama Kalimantan, wisatawan biasanya menyeberang melalui Pelabuhan Feri Tanjung Serdang. Pelabuhan ini menjadi salah satu pintu masuk utama transportasi laut bagi penumpang maupun kendaraan yang hendak menuju Pulau Laut.
+Sejak kecil, Rizwel tumbuh bersama berbagai cerita tentang alam. Ayahnya sering mengingatkan satu hal yang hingga kini selalu tertanam kuat dalam ingatannya.
+“Rizwel, tanah tempat kita berpijak ini adalah anugerah yang harus kita jaga. Di luar sana, mungkin banyak tempat yang sudah dipenuhi bangunan dan hiruk-pikuk perkotaan. Namun, di sini, kita masih memiliki alam yang indah dan ketenangan yang belum tentu bisa ditemukan di tempat lain.”
+Ucapan sang ayah terbukti benar. Di Pulau Laut, Rizwel tumbuh dengan menikmati keindahan alam yang ada di sekitarnya. Ia bahkan sering menghabiskan waktu berjam-jam di kawasan pepohonan tanpa sedikit pun merasa bosan. Baginya, suara angin yang melewati dedaunan dan suara burung di kejauhan merupakan bagian dari keindahan yang tidak ternilai harganya.
+Menginjak usia dewasa, tepatnya 23 tahun, jiwa petualang Rizwel semakin tidak terbendung. Tubuhnya tumbuh tegap karena terbiasa menjelajahi lingkungan sekitar, sementara matanya selalu berbinar setiap kali memandang hamparan laut dan perbukitan hijau di Pulau Laut.
+Namun, kecintaannya yang begitu besar terhadap tempat tinggalnya justru melahirkan sebuah ambisi baru. Rizwel tidak ingin menjadi pemuda yang hanya menikmati keindahan alam untuk dirinya sendiri. Ia ingin agar keindahan alam dan kearifan lokal tentang bagaimana manusia seharusnya menghormati bumi dapat dikenal oleh lebih banyak orang.
+Selama ini, ia sering memperhatikan berbagai aktivitas masyarakat maupun wisatawan yang berkunjung ke daerahnya. Sayangnya, tidak sedikit orang yang masih kurang memperhatikan kebersihan dan kelestarian lingkungan. Pemandangan tersebut membuat Rizwel berpikir bahwa masih banyak orang yang belum memahami pentingnya menjaga alam.
+Dari sanalah sebuah impian besar mulai tumbuh dalam benaknya.
+Rizwel bertekad meninggalkan sementara kenyamanan tempat tinggalnya, mengarungi lautan, dan mengunjungi berbagai tempat. Ia ingin menyebarkan sebuah misi sederhana tetapi bermakna, yaitu membawa semangat Leave No Trace. Sebuah prinsip yang mengajarkan manusia untuk menikmati petualangan tanpa meninggalkan kerusakan maupun sampah di alam yang mereka kunjungi.
+Sambil mengemas ransel kanvas tuanya, Rizwel memandangi peta yang terbentang di atas meja. Pada peta tersebut, Pulau Laut terlihat sebagai bagian dari wilayah Kalimantan Selatan yang dikelilingi lautan. Ia tersenyum kecil, membayangkan berbagai tempat yang kelak akan dikunjunginya.
+Petualangan besarnya telah menanti. Semuanya akan dimulai dari sebuah dermaga di Pulau Laut.
+Namun, kenyataan ternyata tidak semudah yang dibayangkannya. Rizwel mendapati dirinya kesulitan mencari kapal yang dapat membawanya keluar dari pulau menuju wilayah lain. Sadar bahwa ia tidak bisa hanya menunggu keberuntungan datang, ia pun mulai mencari informasi mengenai kapal yang akan melakukan perjalanan menuju wilayah tujuan.
+Pandangannya kemudian tertuju pada seorang ibu paruh baya yang sedang berdiri santai tidak jauh dari dermaga. Tanpa membuang waktu, Rizwel melangkah mendekatinya dengan sopan.
+“Permisi, Bu. Apakah ada kapal yang dijadwalkan berlayar menuju wilayah lain hari ini?” tanyanya ramah.
+Ibu tersebut menoleh dan memperhatikan Rizwel sejenak sebelum menjawab.
+“Oh, kapal ke arah luar pulau, ya? Sepertinya nanti malam akan ada kapal bernama Boeing yang bersandar di sini,” jawabnya.
+Mendengar informasi tersebut, Rizwel merasa sedikit lega.
+“Baik, Bu. Terima kasih banyak atas informasinya.”
+“Sama-sama, Nak. Hati-hati, ya,” balas ibu itu.
+Setelah mengucapkan terima kasih, Rizwel kembali melangkah menjauhi dermaga. Kini muncul kebingungan baru dalam pikirannya. Apa yang harus ia lakukan untuk menghabiskan waktu selama berjam-jam sebelum malam tiba?
+Ia memutar tubuh dan menoleh ke arah pesisir pantai. Di sana, terlihat segerombolan anak kecil sedang berkumpul dan bermain dengan riang. Sebuah ide sederhana muncul di benaknya. Ia ingin mendekati mereka, sekadar menyapa atau mungkin membagikan sedikit cerita petualangan untuk menghibur anak-anak tersebut.
+Namun, sesuatu yang tidak terduga justru terjadi.
+Begitu Rizwel melangkah mendekat, anak-anak itu tiba-tiba menghentikan permainan mereka. Wajah mereka seketika berubah pucat. Tanpa aba-aba, semuanya langsung berbalik dan berlari tunggang-langgang, seolah-olah baru saja melihat sosok monster yang sangat menakutkan.
+Rizwel terpaku di tempat.
+Ia benar-benar tidak memahami apa yang baru saja terjadi.
+“Apa sebenarnya yang membuat anak-anak itu begitu ketakutan sampai-sampai mereka langsung berlari ketika melihatku?” gumamnya pelan.
+Ia berdiri termangu cukup lama, mencoba mencari tahu apakah ada sesuatu yang salah dengan penampilannya. Karena rasa penasaran yang tidak kunjung terjawab, akhirnya ia memberanikan diri bertanya kepada seorang pemuda lokal yang kebetulan sedang duduk santai di atas batang kayu tidak jauh dari sana.
+“Permisi, Kawan. Boleh aku bertanya sesuatu? Mengapa anak-anak tadi tiba-tiba ketakutan dan langsung berlari saat melihatku mendekat?” tanyanya heran.
+Pemuda itu memperhatikan Rizwel dari ujung kepala hingga kaki. Sesaat kemudian, tawanya pecah.
+“Hahaha! Astaga, Kawan! Mungkin mereka ketakutan melihat rambut dan kumismu yang begitu tebal dan lebat itu! Di mata anak-anak kecil, penampilanmu mungkin terlihat seperti seorang penjahat atau perompak yang baru saja turun dari kapal!” ujarnya sambil tertawa geli.
+Mendengar penjelasan tersebut, Rizwel ikut tertawa lepas.
+“Hahaha! Oh, benar juga! Aku sampai lupa kalau penampilanku sudah seperti ini. Belakangan aku terlalu sibuk mengemas barang sampai tidak sempat bercermin. Sialnya, aku juga tidak membawa alat untuk merapikan rambut dan kumisku.”
+Melihat keramahan Rizwel, pemuda itu pun menawarkan bantuan.
+“Eh, kebetulan aku punya gunting rambut di rumah. Kalau kamu mau, mampirlah sebentar. Daripada nanti anak-anak di sini mengira kamu benar-benar seorang perompak!” candanya.
+Rizwel tertawa mendengar gurauan tersebut. Dengan senang hati, ia menerima tawaran itu.
+Jarak antara dermaga dan rumah pemuda tadi ternyata cukup jauh. Namun, perjalanan tersebut sama sekali tidak terasa membosankan. Sepanjang jalan, mereka saling berbagi cerita, bercanda, dan mengobrol tentang berbagai hal.
+Setelah berjalan kaki selama kurang lebih lima menit, sampailah mereka di sebuah rumah sederhana yang berada di lingkungan Desa Sungai Limau. Begitu memasuki halaman, pemuda itu langsung berseru memanggil ibunya yang berada di dalam rumah.
+“Bu! Tolong ambilkan gunting rambut, dong!”
+Dari bagian belakang rumah, terdengar suara sang ibu menyahut dengan nada sedikit keras.
+“Ambil sendiri saja! Guntingnya ada di atas meja, di kamar Ibu!”
+Pemuda itu pun bergegas masuk ke dalam kamar. Tidak lama kemudian, ia kembali ke teras sambil membawa sebuah gunting baja yang cukup tajam.
+“Nih, guntingnya. Silakan dipakai untuk merapikan rambut dan kumismu,” ujarnya sambil menyerahkannya kepada Rizwel.
+Mendengar suara percakapan asing dari teras depan, sang ibu mulai merasa penasaran. Beliau kemudian berjalan menuju bagian depan rumah untuk mengetahui siapa tamu yang sedang berbicara dengan putranya.
+Namun, begitu menginjakkan kaki di teras, sang ibu seketika terlonjak kaget. Wajahnya memucat ketika melihat putranya sedang bersama seorang asing bertubuh tegap dengan penampilan yang menurutnya sangat menyeramkan. Rambut dan kumisnya yang lebat membuat orang tersebut terlihat seperti seorang perompak.
+Tanpa berpikir panjang, sang ibu langsung menarik lengan putranya dan membawanya masuk kembali ke dalam rumah.
+“Astaga! Siapa orang yang kamu bawa ke rumah itu? Tampangnya seram sekali!” bisiknya dengan nada panik.
+Putranya hanya terkekeh pelan melihat reaksi ibunya.
+“Tenang saja, Bu. Dia orang baik, kok. Kami baru bertemu di dermaga tadi. Namanya Rizwel. Dia hanya ingin meminjam gunting rambut untuk merapikan penampilannya,” jelasnya.
+Mendengar penjelasan sang anak, rasa takut yang sempat menyelimuti sang ibu perlahan mulai mereda. Beliau mengembuskan napas lega setelah mengetahui bahwa orang asing tersebut ternyata bukanlah seseorang yang perlu ditakuti.
+Untuk mencairkan suasana, mereka berdua akhirnya kembali berjalan menuju teras depan. Sang ibu kemudian menghampiri Rizwel dengan senyuman ramah.
+“Maafkan Ibu, ya, Nak. Tadi Ibu sedikit terkejut. Kalau boleh tahu, siapa namamu?” tanyanya membuka percakapan.
+Rizwel menghentikan aktivitas menggunting rambutnya sejenak, lalu membungkukkan badan dengan sopan.
+“Tidak apa-apa, Bu. Nama saya Rizwel.”
+“Oh, Rizwel. Kalau boleh tahu, rumahmu di mana?” lanjut sang ibu.
+“Rumah saya sekitar sepuluh menit dari sini, Bu. Tepatnya di Desa Sungai Limau,” jawab Rizwel ramah.
+Sang ibu kemudian menoleh ke arah putranya dengan ekspresi heran.
+“Sebentar, memangnya kalian berdua sudah saling mengenal sebelumnya?”
+Mendengar pertanyaan itu, pemuda tersebut langsung menepuk dahinya sendiri.
+“Astaga! Benar juga! Tadi kami terlalu asyik mengobrol sepanjang perjalanan sampai lupa memperkenalkan diri. Hahaha! Perkenalkan, namaku Borgi,” ucapnya sambil mengulurkan tangan.
+Rizwel menyambut uluran tangan tersebut dengan hangat.
+“Senang berkenalan denganmu, Borgi.”
+Sambil menyelesaikan proses merapikan rambut dan kumisnya, Rizwel mulai berbincang lebih jauh dengan Borgi.
+“Rizwel, sebenarnya tadi kamu pergi ke dermaga untuk apa?” tanya Borgi.
+“Oh, aku berencana pergi menuju wilayah lain. Setelah itu, aku ingin melanjutkan perjalanan ke berbagai tempat untuk berpetualang sekaligus mencari pekerjaan,” jawab Rizwel.
+Borgi mengangguk kecil sebelum kembali mengajukan pertanyaan.
+“Berarti kamu tidak akan kembali ke sini dalam waktu dekat, ya? Lalu, bagaimana dengan keluargamu di rumah?”
+“Sepertinya begitu. Aku ingin kembali suatu hari nanti setelah mendapatkan cukup banyak pengalaman dan memiliki kehidupan yang lebih baik. Soal keluargaku, mereka sudah memberikan izin. Ayah dan ibuku mendukung keputusanku untuk mencari pengalaman serta membangun masa depan di tempat lain,” jelas Rizwel.
+Borgi mengangguk memahami. Sesaat kemudian, seolah teringat sesuatu, ia langsung berdiri dan masuk ke dalam rumah.
+“Tunggu sebentar! Sepertinya aku punya sesuatu yang bisa membantumu.”
+Tidak lama kemudian, Borgi kembali ke teras sambil membawa selembar brosur tua berbahan kertas tebal. Ia mendapatkan brosur tersebut dari pusat informasi pelabuhan beberapa hari sebelumnya.
+“Nah, ini dia! Beberapa hari lalu aku mendapatkan brosur dari pusat informasi pelabuhan. Katanya, ada sebuah kapal yang akan melakukan perjalanan menuju wilayah lain, kemudian melanjutkan pelayaran ke beberapa tempat di kawasan sekitarnya,” jelas Borgi sambil menyerahkan brosur itu kepada Rizwel.
+Dengan penuh rasa penasaran, Rizwel menerima brosur tersebut. Ia membuka lembar demi lembar, memperhatikan informasi mengenai jadwal keberangkatan, rute perjalanan, hingga beberapa pilihan pekerjaan yang tersedia di wilayah tujuan.
+“Astaga! Ini benar-benar informasi yang selama ini aku cari! Kalau melihat jadwalnya, kapal ini akan berangkat besok pagi, bukan?” tanyanya sambil menunjuk salah satu bagian brosur.
+“Benar sekali. Kapal itu akan bersandar di dermaga malam ini untuk mempersiapkan perjalanan esok hari. Namun, ada satu hal yang perlu kamu ketahui. Perjalanan menuju wilayah tujuan membutuhkan waktu yang cukup lama. Jadi, pastikan semua keperluanmu sudah dipersiapkan dengan baik,” jelas Borgi.
+Rizwel mengangguk sambil tersenyum lebar. Dalam pikirannya, kesempatan ini merupakan pintu pertama menuju petualangan besar yang selama ini hanya berani ia bayangkan.
+“Terima kasih banyak, Borgi. Kamu benar-benar sudah membantuku hari ini. Aku tidak tahu bagaimana harus membalas kebaikanmu,” ucap Rizwel tulus.
+Borgi tersenyum sambil mengangkat tangannya.
+“Ah, tidak perlu berlebihan. Senang rasanya bisa membantu orang lain. Oh, iya! Sebentar, tunggu dulu. Jangan pergi dahulu!”
+Rizwel mengernyitkan dahi. Ia mulai bertanya-tanya apa yang sebenarnya sedang dipikirkan oleh pemuda itu.
+“Hmm... Ada apa, ya? Apakah Borgi akan memberiku oleh-oleh untuk bekal selama perjalanan di kapal?” gumam Rizwel dalam hati.
+Beberapa menit berlalu. Dari dalam rumah, Rizwel mulai mendengar suara percakapan antara Borgi dan ibunya.
+“Borgi, kamu mau ke mana? Kenapa membawa pakaian dan koper sebanyak itu?” tanya sang ibu heran.
+“Bu, aku ingin pergi bersama temanku yang ada di teras. Kira-kira Ibu mengizinkannya, tidak?” jawab Borgi.
+Sang ibu tampak terkejut mendengar permintaan tersebut.
+“Lho, kok tiba-tiba ingin pergi? Memangnya kamu sudah tahu dia mau pergi ke mana?” tanyanya lagi.
+“Tahu, kok, Bu. Namanya Rizwel. Dia berencana pergi ke luar daerah, kemudian melanjutkan petualangannya ke berbagai tempat untuk mencari pengalaman dan membangun masa depan yang lebih baik,” jelas Borgi.
+Sang ibu terdiam sejenak. Beliau memikirkan keputusan putranya yang tiba-tiba ingin meninggalkan rumah. Namun, setelah menyadari bahwa anaknya kini telah beranjak dewasa, beliau mulai memahami keinginan Borgi untuk mencari pengalaman dan menemukan jati dirinya.
+Tidak ingin menghalangi langkah sang anak, akhirnya ibu Borgi memberikan restunya.
+“Anakku, Borgi. Jika memang itu keputusanmu, Ibu mengizinkan dan merestui kepergianmu. Ibu tahu kamu sudah cukup dewasa untuk menentukan jalan hidupmu sendiri. Namun, ada satu hal yang harus selalu kamu ingat: jagalah dirimu baik-baik di mana pun kamu berada. Ibu dan Ayah akan selalu mendoakan yang terbaik untukmu,” ucapnya penuh haru.
+Borgi tersenyum lebar mendengar restu dari ibunya.
+“Terima kasih, Bu. Aku janji akan menjaga diriku baik-baik.”
+Setelah berpamitan, Borgi segera berjalan menuju teras dengan membawa barang bawaan yang cukup banyak. Rizwel yang melihatnya langsung menunjukkan ekspresi terkejut.
+“Wah! Borgi, kamu mau ke mana? Kenapa membawa barang sebanyak itu?” tanya Rizwel heran.
+Borgi meletakkan barang-barangnya di samping Rizwel, lalu menjawab dengan penuh semangat.
+“Aku mau ikut bersamamu! Aku juga ingin mencari pengalaman di tempat lain. Sepertinya akan jauh lebih menyenangkan jika kita melakukan perjalanan ini bersama-sama.”
+Rizwel terdiam sejenak sebelum akhirnya tersenyum lebar. Ia sama sekali tidak menyangka bahwa pertemuan sederhana di dermaga justru akan mempertemukannya dengan seorang teman perjalanan.
+“Wah, serius? Tentu saja! Aku senang sekali kalau kamu ikut. Dengan begitu, kita bisa saling membantu selama perjalanan nanti,” jawab Rizwel penuh antusias.
+Tidak lama kemudian, ibu Borgi keluar dari rumah untuk mengantarkan kedua pemuda tersebut. Beliau memandangi mereka dengan senyum haru, meskipun ada sedikit kesedihan karena harus melepas putranya pergi jauh dari rumah.
+“Anak-anak, semoga kalian berdua bisa meraih kesuksesan di tempat yang baru. Jangan pernah melupakan tempat asal kalian. Ingatlah bahwa orang-orang di pulau ini akan selalu merindukan kalian dan berharap kalian dapat kembali suatu hari nanti dengan membawa cerita serta pengalaman yang membanggakan.”
+Rizwel dan Borgi saling berpandangan, kemudian mengangguk penuh hormat.
+“Baik, Bu. Terima kasih banyak atas doa dan motivasinya. Kami akan berusaha sebaik mungkin,” jawab mereka hampir bersamaan.
+Sang ibu tersenyum, lalu memberikan pelukan perpisahan kepada Borgi.
+Sore itu, dua pemuda dengan latar belakang kehidupan yang berbeda akhirnya memiliki tujuan yang sama. Rizwel, seorang pemuda yang ingin memperkenalkan semangat menjaga alam kepada dunia, dan Borgi, seorang pemuda yang ingin mencari pengalaman baru di luar kampung halamannya.
+Mereka belum mengetahui apa saja yang akan menanti di perjalanan nanti. Lautan luas, pulau-pulau asing, budaya yang berbeda, serta berbagai tantangan mungkin akan menjadi bagian dari kisah mereka.
+Namun, satu hal yang pasti: mereka telah mengambil langkah pertama menuju dunia yang jauh lebih luas.
+Perjalanan mereka direncanakan dimulai ketika dini hari tiba. Kapal yang mereka tunggu akan datang dan bersandar di dermaga untuk mempersiapkan keberangkatan. Sementara itu, mereka masih memiliki cukup banyak waktu sebelum kapal tersebut tiba.
+Sembari menunggu, Borgi mengajak Rizwel untuk menginap sebentar di rumahnya.
+“Ini kan kapalnya masih lama datangnya. Kamu tidur di rumahku dulu aja, baru nanti kita berangkat pas kapal itu mau datang,” ujar Borgi.
+Rizwel menyetujui ajakan tersebut. Mereka pun memutuskan untuk beristirahat terlebih dahulu sambil menunggu waktu keberangkatan.
+Malam semakin larut. Rizwel dan Borgi mulai membayangkan berbagai hal yang mungkin akan mereka temui selama perjalanan. Keduanya tampak begitu antusias memikirkan kehidupan baru yang akan mereka jalani.
+“Kira-kira kalau sudah sampai di tempat tujuan nanti aku mau ngapain, ya? Cari kerja atau cari cewek?” ujar Borgi sambil tertawa kecil.
+“Hahaha, masa cari cewek? Yang pasti kita kerja aja dulu. Nanti kalau udah terkumpul banyak uang, baru cari cewek,” jawab Rizwel sambil tertawa.
+Mereka berdua terus bercanda gurau malam itu hingga akhirnya rasa kantuk mulai datang. Tidak lama kemudian, keduanya pun tertidur pulas.
+Namun, ketenangan malam tersebut ternyata tidak berlangsung lama.
+Ketika malam semakin mendekati dini hari, tiba-tiba terdengar suara seseorang berteriak meminta pertolongan dari luar rumah.
+“TOLOOONG!!! TOLOOONG!! ADA KEBAKARAN!! TOLOOOONGGGG!”
+Mendengar teriakan tersebut, seisi rumah langsung terbangun dan terkejut.
+“Kalian mendengar ada suara orang minta tolong?” tanya ibu Borgi dengan wajah kebingungan.
+“Iya, Bu, ada. Kayaknya tadi dia minta tolong karena ada kebakaran,” jawab Borgi.
+“Kalau begitu kita cek. Siapa tahu belum ada orang yang membantu,” ujar Rizwel.
+Seisi rumah kemudian keluar untuk memeriksa kejadian tersebut. Setelah sampai di teras rumah, mereka mulai mencium aroma asap yang cukup pekat. Udara malam yang sebelumnya terasa sejuk kini mulai dipenuhi bau asap yang menyengat.
+Mereka mencoba mencari tahu dari mana sumber asap tersebut berasal.
+“Di mana, ya, asapnya? Kok rumah tetangga masih terlihat aman semua?” tanya ibu Borgi sambil mengamati lingkungan sekitar.
+Rizwel kemudian berjalan agak jauh dari rumah untuk mendapatkan pandangan yang lebih jelas. Ia memperhatikan lingkungan sekitar, mencoba mencari tahu dari arah mana asap tersebut datang.
+Beberapa saat kemudian, pandangannya tertuju pada kawasan perbukitan yang terlihat dari kejauhan.
+Di sana, terlihat kepulan asap tebal yang membumbung ke langit malam.
+“ITUUU!! ADA ASAP DI DEKAT BUKIT!” teriak Rizwel dengan suara keras.
+“Oh iya, aku melihatnya! Ayo segera ke sana, kita bantu untuk memadamkan api itu!” ujar Borgi.
+“Kalian berdua segera bergegas ke sana! Ibu mau cari bantuan dari tetangga-tetangga!” kata ibu Borgi.
+Tanpa membuang waktu, Rizwel dan Borgi langsung berlari menuju arah kepulan asap tersebut. Mereka berusaha mendekati kawasan perbukitan yang menjadi titik munculnya asap.
+Namun, keadaan malam yang begitu gelap membuat perjalanan mereka tidak mudah. Jalan setapak yang harus dilalui dipenuhi semak-semak dan tumbuhan liar. Beberapa kali mereka harus melewati semak berduri yang menghalangi jalan.
+Di tengah perjalanan, Borgi tiba-tiba tersandung sesuatu hingga terjatuh. Ternyata, kakinya tersangkut bebatuan dan akar pohon yang menjalar panjang di sepanjang jalan. Rizwel yang melihat kejadian tersebut bukannya langsung menolong, justru tertawa terlebih dahulu.
+“Lolo! Hahaha! Ayo, ayo, cepat-cepat!” ucap Rizwel sambil mengulurkan tangannya untuk membantu Borgi berdiri.
+“Hehe, namanya juga tersandung. Aduh, aduh!” balas Borgi sambil meringis kesakitan.
+Setelah berhasil berdiri kembali, Borgi mencoba melanjutkan langkahnya. Meskipun kakinya masih terasa sedikit linu, ia tetap berusaha berlari mengikuti Rizwel.
+Rizwel dan Borgi terus berlari mengikuti arah kepulan asap yang semakin tebal. Suara teriakan warga terdengar bersahutan dari kejauhan. Malam yang sebelumnya begitu tenang kini berubah menjadi suasana penuh kepanikan. Cahaya jingga mulai terlihat dari balik pepohonan, menerangi sebagian langit malam di sekitar perbukitan.
+Sesampainya di lokasi, mereka mendapati sejumlah warga telah berkumpul. Beberapa orang terlihat berusaha membantu dari tempat yang aman, sementara warga lainnya sibuk mengingatkan penduduk sekitar agar menjauh dari area kebakaran.
+Rizwel terdiam sejenak melihat pemandangan di hadapannya. Api telah menjalar di sebagian kawasan hutan dan asap tebal terus membumbung tinggi ke udara.
+“Astaga! Besar sekali apinya!” seru Rizwel dengan wajah terkejut.
+Borgi yang berdiri di sampingnya juga terlihat cemas.
+“Rizwel, kita harus melakukan sesuatu! Jangan sampai api itu semakin mendekati permukiman warga!” ujarnya.
+Mereka kemudian menghampiri beberapa warga yang sedang berkumpul untuk mencari tahu apa yang bisa mereka bantu.
+“Pak, apa yang sebenarnya terjadi? Dari mana awal munculnya api itu?” tanya Borgi kepada seorang pria paruh baya.
+Pria tersebut menggelengkan kepala sambil menunjuk ke arah perbukitan.
+“Kami juga belum tahu pasti, Nak. Awalnya hanya terlihat asap kecil dari arah hutan. Namun, tidak lama kemudian apinya semakin membesar. Kami langsung meminta bantuan warga lainnya,” jawab pria itu.
+Mendengar penjelasan tersebut, Rizwel segera menawarkan bantuan.
+“Kalau begitu, apa yang bisa kami bantu, Pak? Kami tidak ingin hanya diam melihat keadaan seperti ini,” ucapnya.
+Pria itu kemudian meminta mereka membantu menghubungi warga yang masih berada di sekitar lokasi dan memastikan tidak ada seorang pun yang tertinggal di kawasan berbahaya.
+“Kalau kalian ingin membantu, tolong bantu arahkan warga untuk menjauh dari sini. Jangan mendekati titik api, karena keadaannya masih sangat berbahaya. Petugas juga sedang dihubungi,” jelas pria tersebut.
+Rizwel dan Borgi segera mengangguk. Mereka pun mulai membantu warga yang berada di sekitar lokasi. Borgi beberapa kali memanggil orang-orang yang masih berada tidak jauh dari kawasan hutan, sementara Rizwel membantu mengarahkan warga menuju tempat yang lebih aman.
+Di tengah kesibukan tersebut, beberapa warga lainnya mulai berdatangan membawa berbagai perlengkapan untuk membantu penanganan kebakaran. Mereka bekerja sama sambil menunggu bantuan dari petugas yang lebih berpengalaman.
+Namun, di tengah suasana yang semakin ramai, terdengar sebuah suara dari salah seorang warga.
+“Jangan-jangan kebakaran ini memang sengaja dibuat oleh oknum yang tidak bertanggung jawab!” celetuk seorang pria dengan nada kesal.
+Ucapan tersebut membuat beberapa warga langsung menoleh ke arahnya.
+“Maksudmu apa? Memangnya kamu tahu sesuatu?” sahut warga lainnya.
+Pria itu menghela napas sebelum menjawab.
+“Aku tidak tahu pasti. Tapi belakangan ini memang ada beberapa orang asing yang terlihat mondar-mandir di sekitar kawasan hutan. Mereka datang menggunakan kendaraan dan beberapa kali terlihat masuk ke jalan yang menuju perbukitan.”
+Mendengar perkataan tersebut, suasana di antara warga mulai berubah. Beberapa orang tampak saling berbisik, sementara yang lainnya mulai mempertanyakan kemungkinan adanya pihak yang sengaja menyebabkan kebakaran itu.
+“Jangan asal menuduh dulu! Kita belum punya bukti yang jelas. Yang paling penting sekarang adalah memastikan api tidak semakin meluas,” ujar seorang warga yang lebih tua.
+Rizwel yang mendengar percakapan itu mulai merasa penasaran. Ia menoleh ke arah Borgi yang juga tampak memperhatikan pembicaraan tersebut.
+“Borgi, menurutmu apa mungkin kebakaran ini memang disengaja?” bisik Rizwel.
+Borgi menggeleng pelan.
+“Aku juga tidak tahu. Tapi kalau benar ada orang yang sengaja melakukan hal seperti itu, berarti mereka tidak peduli dengan kehidupan warga maupun hutan yang selama ini menjadi bagian dari tempat tinggal kita,” jawabnya.
+Rizwel terdiam. Pandangannya kembali tertuju pada hutan yang sedang dilalap api. Ia teringat berbagai cerita tentang keindahan alam Pulau Laut dan bagaimana kawasan hutan tersebut menjadi bagian penting bagi kehidupan masyarakat sekitar.
+Tidak lama kemudian, seorang warga datang menghampiri mereka.
+“Anak-anak, kalian berdua dari mana? Sepertinya saya belum pernah melihat kalian di sini,” tanyanya.
+Borgi segera menjawab dengan sopan.
+“Kami tinggal di Desa Sungai Limau, Pak. Saya Borgi, dan ini teman saya Rizwel. Kami sebenarnya sedang bersiap untuk berangkat merantau besok pagi.”
+Warga tersebut tampak sedikit terkejut.
+“Merantau? Berarti kalian akan meninggalkan pulau ini?”
+“Benar, Pak. Kami berencana mencari pekerjaan dan pengalaman di tempat lain. Kapal yang akan kami tumpangi dijadwalkan berangkat besok,” jawab Rizwel.
+Warga itu kemudian memandang kembali ke arah hutan.
+“Sayang sekali. Padahal, pulau ini memiliki banyak keindahan yang seharusnya bisa kita jaga bersama. Semoga saja kebakaran ini segera bisa dikendalikan.”
+Ucapan tersebut membuat Rizwel kembali terdiam. Di satu sisi, ia sudah memiliki impian untuk pergi mencari pekerjaan dan membangun masa depan yang lebih baik. Namun, di sisi lain, melihat keadaan kampung halamannya seperti ini membuat hatinya terasa berat.
+Beberapa saat kemudian, suara kendaraan mulai terdengar dari kejauhan. Bantuan dari petugas akhirnya tiba. Warga yang berada di sekitar lokasi mulai diarahkan untuk menjauh agar petugas dapat menangani kebakaran dengan lebih terkoordinasi.
+Rizwel dan Borgi kemudian diminta membantu memastikan warga tidak kembali mendekati kawasan berbahaya. Mereka terus berada di sekitar lokasi sambil memperhatikan perkembangan keadaan.
+Malam semakin larut. Meski sebagian warga mulai merasa sedikit lega karena bantuan telah datang, api belum sepenuhnya berhasil dikendalikan. Kepulan asap masih terlihat membumbung tinggi di atas perbukitan.
+Borgi kemudian menghampiri Rizwel yang sedang duduk sejenak di tepi jalan.
+“Rizwel, bagaimana menurutmu? Apakah kita masih akan berangkat besok pagi?” tanyanya.
+Rizwel tidak langsung menjawab. Ia memandangi langit malam yang kini dipenuhi asap, lalu mengalihkan pandangannya ke arah Borgi.
+“Aku juga belum tahu, Borgi. Sejak awal kita memang sudah merencanakan perjalanan ini. Tapi setelah melihat semua yang terjadi malam ini, rasanya sulit untuk langsung pergi begitu saja.”
+Borgi mengangguk perlahan.
+“Aku mengerti. Tapi kita juga punya impian yang ingin kita capai. Kita sudah mempersiapkan semuanya sejak tadi.”
+“Benar. Aku tidak ingin menyerah pada impian kita. Namun, setidaknya aku ingin tahu apa yang sebenarnya terjadi di hutan ini,” jawab Rizwel.
+Rizwel masih penasaran dengan kejadian itu, lalu bertanya kepada warga sekitar.
+“Permisi, Pak, Bu. Apakah Bapak dan Ibu tahu penyebab kebakaran ini?” tanya Rizwel.
+Seorang warga mendekat dan menjawab.
+“Tadi sebelum api terlihat membesar, ada seorang warga yang mengaku melihat kendaraan berhenti di jalan menuju kawasan hutan. Tapi sampai sekarang, orang itu belum bisa ditemukan untuk dimintai keterangan lebih lanjut.”
+Rizwel dan Borgi saling berpandangan.
+“Jadi, apakah benar ada orang yang sengaja membakar hutan ini?” tanya Rizwel.
+Pria tersebut menggeleng pelan.
+“Belum ada yang bisa memastikan. Tapi kalau memang ada pihak yang sengaja melakukannya, kita harus tahu siapa mereka dan apa tujuan sebenarnya.”
+Setelah cukup lama berada di lokasi kebakaran, Rizwel dan Borgi akhirnya memutuskan untuk kembali ke rumah. Keadaan di sekitar hutan masih belum sepenuhnya membaik, tetapi bantuan dari petugas dan warga terus berdatangan untuk menangani kebakaran tersebut.
+Sepanjang perjalanan pulang, keduanya lebih banyak terdiam. Pikiran mereka masih dipenuhi oleh kejadian yang baru saja disaksikan. Terlebih lagi, munculnya dugaan bahwa kebakaran tersebut mungkin disebabkan oleh seseorang yang tidak bertanggung jawab membuat mereka semakin penasaran.
+Sesampainya di rumah, ibu Borgi yang sejak tadi menunggu langsung menghampiri mereka.
+“Astaga, akhirnya kalian pulang juga! Bagaimana keadaan di sana? Apakah apinya sudah berhasil dipadamkan?” tanya sang ibu dengan wajah khawatir.
+Borgi meletakkan barang bawaannya di dekat pintu, kemudian menjawab.
+“Belum sepenuhnya, Bu. Petugas sudah datang untuk membantu menangani kebakaran itu. Tapi apinya cukup besar dan masih terlihat asap dari arah perbukitan.”
+Ibu Borgi menghela napas lega setelah mengetahui bahwa mereka berdua sudah kembali dengan selamat.
+“Syukurlah kalian tidak mengalami apa-apa. Ibu tadi sangat khawatir ketika mendengar kabar kebakaran itu,” ujarnya.
+Rizwel kemudian ikut berbicara.
+“Bu, ada satu hal lagi yang membuat kami penasaran. Tadi ada warga yang mengatakan bahwa sebelum kebakaran terjadi, seseorang sempat melihat kendaraan berhenti di jalan menuju kawasan hutan.”
+Ibu Borgi langsung menoleh ke arah mereka.
+“Memangnya kenapa dengan kendaraan itu?”
+“Kami belum tahu pasti, Bu. Ada dugaan bahwa kebakaran ini sengaja dilakukan oleh orang-orang yang tidak bertanggung jawab. Namun, belum ada bukti yang bisa memastikan hal tersebut,” jelas Rizwel.
+Sang ibu terdiam sejenak. Beliau kemudian duduk di kursi ruang tamu sambil memikirkan perkataan kedua pemuda tersebut.
+“Kalau memang benar ada orang yang sengaja merusak hutan, tentu itu sangat disayangkan. Hutan di sekitar sini bukan hanya tempat tumbuhnya pepohonan, tetapi juga menjadi bagian dari kehidupan masyarakat,” ucapnya.
+Borgi yang sejak tadi terlihat gelisah akhirnya memberanikan diri menyampaikan sesuatu.
+“Bu, sebenarnya ada hal lain yang ingin aku tanyakan.”
+“Ada apa, Nak?” jawab ibunya.
+Borgi menarik napas panjang sebelum melanjutkan perkataannya.
+“Menurut Ibu, sebaiknya aku dan Rizwel tetap tinggal di desa untuk sementara waktu atau tetap melanjutkan perjalanan ke Pulau Jawa besok pagi?”
+Pertanyaan tersebut membuat suasana ruang tamu menjadi hening.
+“Kenapa tiba-tiba kamu menanyakan hal itu?” tanya sang ibu.
+“Karena setelah melihat kejadian tadi, aku jadi merasa tidak tenang kalau harus langsung pergi. Apalagi kalau memang ada orang yang sengaja menyebabkan kebakaran itu. Aku ingin tahu siapa yang bertanggung jawab atas kejadian tersebut,” jawab Borgi.
+Rizwel kemudian ikut mengutarakan pendapatnya.
+“Awalnya kami sangat bersemangat untuk berangkat, Bu. Kami sudah membayangkan bagaimana kehidupan di tempat baru nanti, mencari pekerjaan, mendapatkan pengalaman, dan membangun masa depan yang lebih baik. Tapi setelah melihat keadaan hutan malam ini, rasanya berat sekali jika harus meninggalkan semuanya begitu saja.”
+Ibu Borgi memperhatikan kedua pemuda itu dengan saksama. Beliau memahami bahwa keputusan untuk merantau bukanlah sesuatu yang mudah, terlebih mereka telah mempersiapkan perjalanan tersebut sejak lama.
+“Anak-anak, Ibu mengerti apa yang kalian rasakan. Namun, kalian juga harus ingat bahwa merantau merupakan bagian dari perjalanan untuk membangun masa depan. Jangan sampai sebuah kejadian membuat kalian melupakan impian yang sudah kalian perjuangkan,” ucapnya dengan lembut.
+Borgi menundukkan kepala sejenak.
+“Tapi, Bu, bagaimana kalau nanti kami pergi dan ternyata kebakaran seperti ini terjadi lagi? Siapa yang akan membantu menjaga hutan dan desa kita?”
+Sang ibu tersenyum tipis sebelum menjawab.
+“Borgi, menjaga desa bukan hanya tanggung jawab dua orang pemuda. Masih ada banyak warga yang peduli terhadap tempat tinggal mereka. Kalian tidak harus mengorbankan seluruh impian untuk menunjukkan kepedulian terhadap kampung halaman.”
+Beliau kemudian menatap Rizwel.
+“Rizwel, bukankah selama ini kamu ingin pergi ke berbagai tempat untuk belajar dan mendapatkan pengalaman? Kalau memang itu tujuanmu, jangan lupakan niat baikmu. Siapa tahu suatu hari nanti pengalaman yang kalian dapatkan justru bisa digunakan untuk membantu desa ini.”
+Rizwel mengangguk perlahan. Perkataan tersebut membuatnya kembali mengingat alasan utama mengapa ia ingin melakukan perjalanan. Ia bukan hanya ingin mencari pekerjaan, tetapi juga ingin mengenal dunia lebih luas dan belajar bagaimana manusia dapat hidup berdampingan dengan alam.
+Namun, Borgi masih terlihat ragu.
+“Jadi, menurut Ibu kami sebaiknya tetap berangkat besok?”
+Ibu Borgi tidak langsung menjawab. Beliau memandang kedua pemuda itu sebelum akhirnya berkata,
+“Ibu tidak akan memaksakan keputusan kalian. Jika kalian merasa harus tinggal sebentar untuk membantu warga dan mencari informasi mengenai kejadian ini, lakukanlah. Tetapi jika kalian memilih untuk tetap berangkat, jangan merasa bahwa kalian telah meninggalkan kampung halaman. Yang terpenting, jangan pernah melupakan dari mana kalian berasal.”
+Suasana kembali hening. Rizwel dan Borgi saling berpandangan, mencoba memahami nasihat yang baru saja mereka dengar.
+Tidak lama kemudian, ibu Borgi kembali berbicara.
+“Oh iya, Ibu jadi teringat sesuatu. Beberapa hari yang lalu, ada seorang warga yang sempat membicarakan aktivitas beberapa orang di sekitar kawasan hutan. Katanya, mereka sering datang dan pergi menggunakan kendaraan yang tidak biasa terlihat di desa ini.”
+Mendengar hal tersebut, Rizwel langsung menunjukkan ketertarikan.
+“Benarkah, Bu? Apakah Ibu tahu siapa orang yang melihat mereka?”
+“Sayangnya, Ibu tidak tahu pasti. Ibu hanya mendengar cerita itu dari tetangga. Tapi sepertinya ada baiknya kalian mencari tahu lebih lanjut kepada warga yang mengetahui kejadian tersebut. Jangan sampai kita menyimpulkan sesuatu tanpa bukti,” jawab sang ibu.
+Borgi kemudian menoleh kepada Rizwel.
+“Rizwel, sepertinya kejadian ini memang belum selesai.”
+Rizwel mengangguk pelan.
+“Benar. Tapi untuk sekarang, sebaiknya kita beristirahat dulu. Besok pagi kita bisa membicarakan kembali keputusan keberangkatan kita sekaligus mencari informasi dari warga.”
+Borgi menyetujui perkataan temannya.
+Malam itu, keduanya akhirnya memutuskan untuk beristirahat. Namun, berbeda dengan malam sebelumnya, kali ini pikiran mereka tidak lagi dipenuhi bayangan tentang kehidupan baru di Pulau Jawa. Ada sebuah kejadian besar yang masih menyisakan banyak pertanyaan di benak mereka.
+Di antara impian untuk merantau dan kepedulian terhadap tanah kelahiran, Rizwel dan Borgi harus menentukan langkah berikutnya.
+Sementara itu, di kejauhan, kepulan asap dari kawasan perbukitan masih terlihat samar di bawah gelapnya langit malam.
+Pagi mulai menyingsing. Setelah beristirahat beberapa saat, Rizwel dan Borgi akhirnya keluar dari rumah untuk kembali melihat kondisi desa. Mereka masih memikirkan kejadian kebakaran hutan semalam. Beberapa warga terlihat mulai beraktivitas, sementara sebagian lainnya masih sibuk membicarakan peristiwa tersebut.
+Di tengah percakapan mereka dengan beberapa warga, Rizwel dan Borgi tidak menyadari bahwa waktu keberangkatan kapal semakin dekat.
+“Menurutmu, kita harus bagaimana sekarang?” tanya Borgi.
+Rizwel terdiam sejenak. “Aku juga belum tahu. Rasanya masih ada sesuatu yang belum kita ketahui tentang kebakaran itu.”
+Tiba-tiba, terdengar suara lirih dari arah laut.
+Tooooot...
+Keduanya langsung menghentikan percakapan.
+Borgi menoleh ke arah dermaga. “Wel, itu suara apa?”
+Rizwel terdiam beberapa detik, kemudian matanya membesar.
+“JANGAN-JANGAN KAPAL KITA!”
+Mereka berdua langsung bergegas menuju rumah Borgi untuk mengambil barang-barang bawaan yang telah disiapkan sejak semalam.
+“BU! KAMI BERANGKAT DULU!” teriak Borgi dari depan rumah.
+Ibunya yang sedang berada di dalam rumah segera keluar. “Jangan sampai barang kalian tertinggal! Hati-hati di jalan!”
+“IYA, BU!”
+Mereka kemudian berlari menuju dermaga. Namun, di tengah perjalanan, Borgi tiba-tiba menghentikan langkahnya.
+“Wel, tunggu!”
+“Apa lagi, Borgi?! Kita sudah terlambat!”
+“Barang bawaanku! Aku lupa mengambilnya!”
+Rizwel langsung menoleh dengan wajah kesal. “Serius, Borgi? Tadi malam sudah kubilang siapkan semua barang bawaan supaya tidak ada yang tertinggal!”
+“Aku tahu! Kamu duluan saja. Aku akan segera menyusul!”
+Tanpa menunggu jawaban, Borgi berbalik dan berlari kembali menuju rumahnya.
+Rizwel menghela napas panjang. “Aduh, orang ini memang selalu saja ada masalah. Kalau dari tadi barang-barangnya sudah disiapkan, kita tidak akan seperti ini.”
+Ia pun kembali berlari menuju dermaga seorang diri.
+Sementara itu, Borgi berhasil mengambil barang bawaannya. Ia berpamitan singkat kepada ibunya, kemudian bergegas menyusul Rizwel.
+Perjalanan menuju dermaga terasa semakin melelahkan. Borgi terus berlari sambil membawa tasnya, berharap kapal belum benar-benar meninggalkan pelabuhan.
+Sesampainya di dermaga, ia langsung mencari sosok Rizwel.
+Namun, langkahnya perlahan terhenti ketika melihat Rizwel sedang duduk termenung di salah satu sisi dermaga. Pandangannya tertuju jauh ke arah laut.
+Borgi kemudian mengikuti arah pandangan Rizwel.
+Kapal yang seharusnya mereka tumpangi kini sudah mulai menjauh dari dermaga.
+“Borgi...” ucap Rizwel pelan.
+Borgi mendekatinya. “Wel, maaf. Aku tadi—”
+“Sudahlah.”
+Borgi terdiam.
+Rizwel menundukkan kepalanya, lalu kembali menatap kapal yang semakin jauh.
+“Kalau saja kamu tidak lupa mengambil barang bawaanmu, mungkin sekarang kita sudah berada di atas kapal itu.”
+“Aku benar-benar tidak sengaja, Wel. Aku juga tidak menyangka bakal seperti ini.”
+Rizwel menggelengkan kepala.
+“Kamu tahu tidak, sudah berapa lama aku merencanakan perjalanan ini? Aku sudah membayangkan bagaimana rasanya pergi ke Pulau Jawa, mencari pekerjaan, dan memulai kehidupan yang baru.”
+Ia berhenti sejenak sebelum melanjutkan perkataannya.
+“Seandainya saja aku tidak bertemu denganmu, mungkin perjalananku ke Pulau Jawa bisa berjalan lancar.”
+Perkataan itu membuat Borgi terdiam. Ia tidak langsung menjawab. Tatapannya perlahan beralih dari Rizwel menuju kapal yang kini semakin jauh dari pandangan.
+Untuk beberapa saat, tidak ada percakapan di antara mereka. Hanya suara ombak yang terdengar di sekitar dermaga.
+Borgi akhirnya menundukkan kepala.
+“Maaf ya, Rizwel. Kalau keberadaanku justru mengganggu semua rencanamu. Aku hanya ingin menjadi teman perjalananmu dan ikut bersama-sama meraih masa depan di Pulau Jawa. Tapi ternyata malah seperti ini yang terjadi. Maaf ya, Rizwel.”
+Rizwel tidak langsung menjawab. Ia masih menatap kapal yang perlahan menghilang dari pandangannya.
+“Ini bukan cuma soal barang bawaanmu, Borgi!” ucap Rizwel dengan nada kesal.
+Ia kemudian berdiri dan mulai berjalan beberapa langkah menjauhi Borgi.
+“Kalau saja hutan desa kita tidak terbakar, mungkin sekarang aku sudah berada di atas kapal itu. Kalau saja kejadian semalam tidak terjadi, mungkin kita tidak perlu memikirkan semua ini!”
+Rizwel mengepalkan tangannya.
+“Dan semua ini mungkin tidak akan terjadi kalau saja orang-orang yang tidak bertanggung jawab itu tidak membakar hutan kita!”
+Borgi hanya terdiam mendengar perkataan Rizwel.
+“Entah siapa mereka sebenarnya. Tapi gara-gara perbuatan orang-orang seperti itu, semuanya jadi berantakan! Hutan kita terbakar, warga desa harus menghadapi masalah, dan sekarang perjalanan yang sudah lama kurencanakan juga gagal!”
+Pikiran Rizwel semakin kacau. Ia tidak tahu harus menyalahkan siapa. Ia kecewa karena gagal berangkat ke Pulau Jawa, marah terhadap kejadian yang menimpa desanya, sekaligus merasa bersalah karena telah mengatakan hal yang menyakitkan kepada Borgi.
+Borgi perlahan mendekatinya.
+“Wel, aku tahu kamu kecewa. Aku juga ingin sekali pergi bersamamu. Tapi kita bahkan belum tahu pasti siapa yang menyebabkan kebakaran itu.”
+Rizwel terdiam.
+“Jangan sampai karena kita terlalu marah, kita malah menuduh orang yang belum tentu bersalah,” lanjut Borgi.
+Rizwel menundukkan kepalanya. Untuk pertama kalinya sejak tiba di dermaga, ia tidak lagi mengatakan apa-apa.
+Di hadapannya, laut terbentang luas. Kapal yang membawa harapannya menuju Pulau Jawa kini sudah tidak terlihat lagi.
+Sementara di belakang mereka, desa yang menjadi tempat tinggal sejak kecil masih harus menghadapi dampak kebakaran hutan.
+Rizwel duduk kembali di tepi dermaga. Ia mengusap wajahnya dan menarik napas panjang.
+Hari itu, ia kehilangan kesempatan untuk berangkat menuju Pulau Jawa. Namun, ada sesuatu yang jauh lebih besar yang masih belum mereka ketahui tentang kebakaran hutan di desa mereka.
+Angin laut berembus pelan, menyapu wajah Rizwel dan Borgi yang masih duduk berdampingan di ujung dermaga. Keduanya memandang laut yang perlahan kembali tenang setelah kapal yang mereka tunggu semakin jauh meninggalkan pelabuhan.
+Beberapa saat berlalu tanpa percakapan. Rizwel menundukkan kepala, memainkan ujung jarinya, seolah sedang memikirkan sesuatu yang selama ini belum pernah benar-benar ia ceritakan kepada Borgi.
+“Gi,” panggil Rizwel pelan.
+“Ya?”
+“Sebenarnya, aku ingin sekali pergi ke Pulau Jawa bukan cuma karena ingin melihat tempat baru atau mencari pengalaman.”
+Borgi menoleh, memperhatikan wajah Rizwel.
+“Aku ingin membanggakan kedua orang tuaku,” lanjut Rizwel. “Selama ini kehidupan keluargaku tidak mudah. Kadang untuk memenuhi kebutuhan sehari-hari saja rasanya berat. Aku melihat sendiri bagaimana orang tuaku berusaha keras supaya kami tetap bisa menjalani hidup.”
+Rizwel berhenti sejenak. Matanya kembali mengarah ke laut.
+“Aku sering berpikir, sampai kapan mereka harus terus bekerja keras seperti itu? Aku sudah berumur dua puluh tiga tahun. Aku ingin bisa membantu mereka. Aku ingin suatu hari nanti mereka tidak perlu terlalu memikirkan biaya hidup, tidak perlu merasa khawatir setiap kali ada kebutuhan yang harus dipenuhi.”
+Suaranya terdengar semakin pelan.
+“Aku ingin ketika pulang nanti, aku bisa membawa sesuatu yang membuat mereka tersenyum. Bukan karena aku menjadi orang kaya, tetapi karena aku sudah berusaha dan bisa membuat kehidupan mereka sedikit lebih baik.”
+Borgi terdiam. Ia mulai memahami bahwa keinginan Rizwel pergi ke Pulau Jawa ternyata menyimpan harapan yang jauh lebih besar daripada sekadar merantau.
+“Sekarang aku mengerti kenapa kamu begitu ingin berangkat,” kata Borgi.
+Rizwel tersenyum tipis. “Aku juga tidak tahu apakah nanti semuanya akan berjalan sesuai harapan. Aku mungkin akan menghadapi banyak kesulitan di sana. Tapi setidaknya aku ingin mencoba. Aku tidak mau hanya diam melihat keadaan keluargaku seperti sekarang.”
+Borgi menarik napas panjang, kemudian menyandarkan kedua tangannya di belakang tubuh.
+“Kalau begitu, ternyata kita punya alasan yang hampir sama, Wel.”
+Rizwel menoleh kepadanya.
+“Aku juga ingin pergi bukan hanya untuk diriku sendiri,” ujar Borgi. “Aku ingin keluargaku percaya bahwa aku bisa melakukan sesuatu. Aku ingin mereka tahu bahwa aku juga bisa berusaha memperbaiki keadaan. Selama ini mungkin mereka melihatku sebagai orang yang biasa-biasa saja. Aku ingin membuktikan bahwa aku bisa menjadi seseorang yang bisa diandalkan.”
+Borgi tersenyum kecil, meskipun masih ada rasa kecewa karena kapal yang mereka tunggu telah berangkat.
+“Aku ingin suatu hari nanti bisa membantu keluargaku. Aku ingin mereka tidak terus-menerus memikirkan kesulitan ekonomi. Kalau ada kebutuhan, mereka tidak harus selalu kebingungan mencari jalan keluarnya.”
+Rizwel mendengarkan dengan saksama.
+“Jadi, kita sama-sama ingin merantau demi keluarga?” tanya Rizwel.
+“Sepertinya begitu,” jawab Borgi sambil tertawa kecil. “Bedanya, kamu sudah punya rencana jauh-jauh hari, sedangkan aku baru benar-benar berani memikirkannya setelah bertemu denganmu.”
+Rizwel ikut tersenyum.
+“Berarti kita memang harus berusaha lebih keras, Gi. Jangan sampai semua harapan keluarga kita hanya menjadi angan-angan.”
+“Benar. Tapi mungkin kita juga harus ingat, Wel, bahwa memperbaiki kehidupan keluarga tidak selalu berarti harus berhasil dalam waktu singkat. Yang penting kita mau bekerja keras, tidak mudah menyerah, dan tidak melupakan orang-orang yang sudah mendukung kita.”
+Rizwel mengangguk pelan.
+Untuk beberapa saat, keduanya kembali memandang laut. Mereka sadar bahwa perjalanan ke Pulau Jawa bukan hanya tentang meninggalkan Pulau Laut. Ada harapan orang tua, tanggung jawab keluarga, dan keinginan untuk membangun kehidupan yang lebih baik di balik keputusan mereka.
+Kapal yang tadi mereka tunggu memang sudah pergi. Namun, keinginan mereka untuk memperjuangkan masa depan belum ikut berlayar bersamanya.
+Di ujung dermaga itu, Rizwel dan Borgi mulai memahami satu hal: mereka tidak sedang mengejar kehidupan yang mewah. Mereka hanya ingin suatu hari nanti bisa melihat orang-orang yang mereka sayangi hidup dengan lebih tenang.Setelah melewati pagi yang cukup melelahkan, suasana hati mereka perlahan mulai membaik. Sesekali, kapal-kapal kecil milik nelayan terlihat melintas di kejauhan. Meskipun masih ada sedikit rasa kecewa karena gagal berangkat, keduanya mulai menerima keadaan yang terjadi.
+“Wel, sekarang kita mau bagaimana?” tanya Borgi sambil mengarahkan pandangannya ke laut.
+Rizwel menghela napas panjang.
+“Entahlah, Gi. Aku juga belum tahu. Kalau menunggu kapal berikutnya, kita bahkan belum tahu kapan jadwal keberangkatannya.”
+Borgi mengangguk pelan. Ia kemudian melihat ke arah beberapa orang yang sedang sibuk melakukan aktivitas di sekitar dermaga.
+“Kalau dipikir-pikir, sayang juga kalau kita langsung pulang. Kita sudah sampai di sini, tetapi belum mendapatkan kepastian kapan bisa berangkat lagi.”
+“Memangnya kamu punya ide?” tanya Rizwel.
+“Belum. Hahaha!”
+Rizwel hanya menggelengkan kepala sambil tersenyum kecil.
+Tidak lama kemudian, dari arah bangunan pelabuhan, terlihat seorang pria berjalan menghampiri mereka. Pria tersebut mengenakan pakaian sederhana dan membawa sebuah buku catatan kecil di tangannya.
+“Hei, kalian berdua! Dari tadi saya lihat kalian duduk di sini. Memangnya sedang menunggu seseorang?” tanyanya.
+Borgi kemudian menjawab, “Tidak, Pak. Kami sebenarnya tadi mau berangkat ke Pulau Jawa, tetapi kapalnya sudah lebih dahulu meninggalkan dermaga.”
+“Oh, begitu. Berarti kalian terlambat naik kapal yang pagi tadi?”
+“Iya, Pak. Gara-gara ada sedikit kendala, akhirnya kami tidak sempat mengejar keberangkatan,” jawab Rizwel.
+Pria tersebut tersenyum kecil.
+“Kalau begitu, kalian tidak perlu terlalu khawatir. Sore nanti kemungkinan masih ada kapal yang akan berangkat menuju Pulau Jawa.”
+Mendengar perkataan itu, Rizwel dan Borgi langsung saling menoleh.
+“Benarkah, Pak?” tanya Borgi dengan wajah sedikit bersemangat.
+“Iya. Jadwal keberangkatannya memang berbeda dengan kapal yang tadi pagi. Kalian bisa mencoba ikut keberangkatan sore nanti.”
+Rizwel yang sejak tadi terlihat murung mulai menunjukkan ekspresi lega.
+“Wah, berarti kami masih punya kesempatan untuk berangkat hari ini, ya, Pak?”
+“Tentu saja. Tapi kalian harus memastikan tiketnya terlebih dahulu. Karena kapal yang pagi tadi sudah berangkat, kalian harus membeli tiket baru untuk keberangkatan berikutnya.”
+Senyum di wajah Rizwel perlahan memudar. Ia kemudian menoleh kepada Borgi.
+“Tiket baru?” gumamnya.
+Borgi mulai terlihat kebingungan.
+“Memangnya berapa harga tiketnya, Pak?”
+Pria itu kemudian menyebutkan biaya perjalanan yang harus mereka persiapkan. Setelah mendengar jumlahnya, keduanya kembali terdiam.
+“Baik, Pak. Terima kasih atas informasinya,” jawab Rizwel.
+Pria tersebut kemudian melanjutkan pekerjaannya, meninggalkan mereka berdua yang kini kembali diselimuti kebingungan.
+“Wel, bagaimana ini? Kita harus membeli tiket lagi, sedangkan uang yang kita bawa tadi sudah kita persiapkan untuk keberangkatan sebelumnya,” ujar Borgi.
+Rizwel membuka tasnya dan mulai memeriksa uang yang masih tersisa.
+“Sebentar, coba kita hitung dulu uang yang kita punya.”
+Mereka kemudian mengumpulkan seluruh uang yang dibawa. Setelah menghitungnya beberapa kali, keduanya menyadari bahwa uang tersebut belum cukup untuk membeli dua tiket.
+“Kurang berapa, Wel?” tanya Borgi.
+Rizwel menghela napas.
+“Masih kurang. Kalau untuk satu tiket mungkin bisa kita usahakan, tapi kalau untuk dua orang, jelas belum cukup.”
+Borgi terdiam sambil memikirkan sesuatu.
+“Yah, masa kita sudah mendapatkan kesempatan kedua, tetapi malah gagal lagi karena uang?”
+Rizwel menyandarkan tubuhnya ke tiang dermaga.
+“Entahlah, Gi. Padahal kita sudah berharap bisa berangkat hari ini. Aku juga tidak ingin terus-menerus meminta uang kepada orang tua. Mereka sudah cukup banyak berusaha untuk memenuhi kebutuhan keluarga.”
+Borgi mengangguk. Ia memahami apa yang dimaksud oleh Rizwel. Baginya, mencari uang sendiri merupakan salah satu alasan utama mengapa ia ingin pergi merantau.
+“Kalau begitu, bagaimana kalau kita mencari pekerjaan sementara di sekitar pelabuhan? Siapa tahu ada orang yang membutuhkan bantuan tenaga.”
+Rizwel menoleh.
+“Memangnya ada pekerjaan apa di sini?”
+“Mana aku tahu. Yang penting kita coba bertanya dulu. Daripada hanya duduk di sini sambil memikirkan kekurangan uang, lebih baik kita melakukan sesuatu.”
+Rizwel tersenyum tipis.
+“Benar juga. Ayo, kita coba cari.”
+Keduanya kemudian berdiri dan mulai berjalan menyusuri area dermaga. Di sepanjang jalan, mereka melihat beberapa pekerja sedang mengangkut barang dari kapal menuju bagian daratan. Ada yang membawa karung, mengangkat peti, hingga mendorong berbagai muatan menggunakan gerobak.
+Mereka memperhatikan aktivitas tersebut sambil sesekali bertanya kepada beberapa orang yang sedang bekerja.
+Namun, belum ada pekerjaan yang bisa mereka dapatkan.
+Ketika sedang berjalan mendekati area bongkar muat, seorang pria yang tampaknya bertugas mengatur para pekerja melihat mereka.
+“Hei, kalian berdua! Sedang mencari siapa?” tanyanya.
+Rizwel dan Borgi segera menghampiri pria tersebut.
+“Begini, Pak. Kami sedang mencari pekerjaan sementara. Kalau ada yang membutuhkan bantuan tenaga, mungkin kami bisa membantu,” jawab Rizwel dengan sopan.
+Pria itu memperhatikan keduanya dari ujung kepala hingga kaki.
+“Kalian bisa bekerja mengangkat barang?”
+Borgi langsung menjawab, “Bisa, Pak. Kami siap membantu pekerjaan apa saja selama memang membutuhkan tenaga.”
+Pria tersebut kemudian menunjuk ke arah beberapa tumpukan muatan yang berada tidak jauh dari tempat mereka berdiri.
+“Kebetulan, di sini sedang ada kegiatan bongkar muat barang. Beberapa pekerja masih dibutuhkan untuk memindahkan muatan dari kapal ke sisi dermaga. Pekerjaannya memang cukup berat, tetapi kalau kalian bersedia, saya bisa memberikan upah setelah pekerjaan selesai.”
+Mendengar tawaran tersebut, Rizwel dan Borgi langsung saling berpandangan.
+“Kalau boleh tahu, Pak, berapa upah yang akan kami dapatkan?” tanya Rizwel.
+Pria itu kemudian menjelaskan besaran upah serta pekerjaan yang harus mereka lakukan.
+Borgi terlihat sedikit bersemangat. Ia menoleh kepada Rizwel sambil tersenyum.
+“Wel, bagaimana? Sepertinya ini kesempatan kita.”
+Rizwel memperhatikan tumpukan barang yang harus dipindahkan. Ia tahu pekerjaan tersebut tidak akan mudah, terlebih mereka harus menyelesaikannya sebelum kapal berikutnya berangkat pada sore hari.
+Namun, mengingat tujuan mereka yang ingin segera pergi ke Pulau Jawa, ia merasa tidak punya banyak pilihan.
+Akhirnya, Rizwel mengangguk.
+“Baiklah, Pak. Kami bersedia membantu.”
+Pria itu tersenyum.
+“Bagus. Kalau begitu, bersiaplah. Sebentar lagi muatan berikutnya akan diturunkan.”
+Borgi kemudian menepuk bahu Rizwel.
+“Nah, Wel! Daripada kita hanya duduk memandangi laut, lebih baik sekarang kita bekerja. Siapa tahu sore nanti kita benar-benar bisa berangkat.”
+Rizwel tertawa kecil.
+“Hahaha! Iya, Gi. Tapi kali ini jangan sampai ada barang yang tertinggal lagi, terutama barang bawaanmu sendiri.”
+“Sudahlah, Wel! Jangan diungkit terus!”
+Keduanya kembali tertawa kecil sebelum akhirnya bersiap untuk memulai pekerjaan.
+Tidak lama kemudian, sebuah kapal muatan terlihat merapat ke dermaga.
+“Ayo, kita bersiap mengangkut muatan itu!” ujar Rizwel.
+“Ayooo!” jawab Borgi dengan semangat.
+Di siang yang panas itu, mereka berdua bersama-sama mengangkut barang-barang yang amat berat ke dermaga. Tenaga mereka lama-kelamaan berkurang akibat cuaca yang terik, tetapi keduanya tetap bekerja dengan senang karena kebersamaan mereka semakin kuat. Berpuluh-puluh muatan terangkat ke tepi dermaga.
+Rasa lelah seolah tidak ada pada diri mereka berdua. Semangat pantang menyerah membuat mereka bisa bekerja dengan baik. Para pekerja di sana pun kagum melihat mereka.
+"Siapa dua orang baru itu? Kok tidak pernah kelihatan," ujar seorang pekerja.
+"Iya, siapa ya? Mereka terlihat bersemangat sekali mengangkut barang-barang itu," ucap pekerja yang lain.
+Beberapa pekerja pun ikut bersemangat karena melihat kerja sama mereka berdua. Pria yang mengajak mereka bekerja juga memperhatikan dan merasa kagum dengan hasil kerja mereka. Dalam hati, ia berniat memberi bonus ketika pekerjaan selesai nanti.
+Waktu sudah menjelang sore. Rizwel dan Borgi hampir menyelesaikan seluruh pekerjaan.
+"Ayo, Borgi! Tinggal sedikit lagi, ini kotak terakhir!" ucap Rizwel dengan semangat.
+"Ayo! Satu, dua, tigaaa!" seru mereka berdua bersamaan.
+Kotak terakhir akhirnya terangkat ke tepi dermaga. Borgi menjatuhkan diri ke atas tumpukan karung sambil mengembuskan napas panjang.
+"Akhirnya selesai juga, hehhh," ucapnya senang.
+Para pekerja lain bertepuk tangan kepada mereka berdua.
+"Kalian berdua hebat! Pekerjaan ini bisa selesai dengan cepat, tidak sampai malam. Terima kasih atas bantuan kalian," ujar salah seorang pekerja.
+Tidak lama kemudian, pria yang mengajak mereka bekerja datang menghampiri sambil membawa dua amplop kecil dan dua lembar kertas.
+"Terima kasih, ya, kalian sudah membantu. Ini upah dan bonus untuk kalian," katanya sambil tersenyum lebar.
+Rizwel dan Borgi menerima amplop itu dengan kedua tangan. Selain upah, masing-masing dari mereka juga mendapat tiket kapal dan uang saku sebagai bonus. Borgi membelalak ketika merasakan tebalnya isi amplop itu.
+Rizwel menatap tiket di tangannya untuk beberapa saat tanpa bisa berkata-kata.
+"Terima kasih banyak, Pak, atas upahnya," ucapnya akhirnya. "Kami juga berterima kasih karena Bapak sudah mempercayai kami berdua dengan pekerjaan ini."
+"Kalian bekerja dengan sungguh-sungguh, pantas kalau mendapat balasan yang setimpal," jawab pria itu.
+Borgi menoleh kepada Rizwel dengan mata berkaca-kaca, lalu tertawa lepas.
+"Wel! Kita jadi berangkat! Kita beneran jadi berangkat hari ini!"
+Rizwel ikut tertawa. Rasa kecewa yang sejak pagi menekan dadanya perlahan menguap.
+Pria itu tiba-tiba menepuk dahinya. "Astaga, saya lupa sekali. Dari tadi kita bicara, tapi saya belum memperkenalkan diri. Nama saya Bara."
+"Saya Rizwel, Pak."
+"Saya Borgi, Pak. Senang berkenalan dengan Bapak."
+Bara mengangguk puas. Ia memperhatikan keduanya sejenak sebelum melanjutkan.
+"Saya mau bicara terus terang. Dari tadi saya perhatikan cara kerja kalian. Tenaga kalian kuat, tidak mengeluh, dan kalian bisa bekerja sama dengan baik. Susah mencari orang seperti itu di sini."
+"Terima kasih, Pak," jawab Rizwel.
+"Bagaimana kalau kalian bekerja di dermaga ini saja? Upahnya memang tidak besar, tapi pekerjaannya ada setiap hari. Kalian juga tidak perlu jauh-jauh dari kampung halaman."
+Rizwel dan Borgi saling berpandangan. Borgi menggaruk kepalanya.
+"Maaf, Pak," kata Rizwel hati-hati. "Kami sangat berterima kasih atas tawaran Bapak. Tapi kami sudah bertekad pergi ke Pulau Jawa. Kami ingin mencari pekerjaan dan masa depan di sana."
+"Betul, Pak," sambung Borgi. "Kami sudah lama merencanakan ini."
+Bara mengerutkan dahi. "Kalian yakin? Pulau Jawa itu tidak semudah yang kalian bayangkan."
+"Kami tahu, Pak. Tapi kami ingin mencoba."
+Bara menghela napas panjang, lalu tertawa kecil. "Toh kalau kalian ke Jawa, belum tentu juga langsung dapat kerjaan. Paling-paling ya luntang-lantung di pelabuhan sana juga. Mending kerja di sini saja. Sudah jelas ada penghasilannya."
+Ucapan itu membuat Rizwel terdiam sejenak. Namun, ia tidak goyah. Ia teringat wajah orang tuanya, dan alasan yang ia ceritakan kepada Borgi di ujung dermaga pagi tadi.
+"Mungkin Bapak benar," jawab Rizwel pelan namun mantap. "Mungkin di sana nanti kami akan menghadapi kesulitan. Tapi kalau kami tidak mencoba, kami tidak akan pernah tahu."
+"Iya, Pak," kata Borgi, kali ini dengan suara yang lebih tegas dari biasanya. "Kami tetap ingin berangkat."
+Bara memandang mereka cukup lama. Akhirnya ia mengangguk sambil tersenyum tipis.
+"Baiklah, saya tidak akan memaksa. Anak muda memang harus punya tekad seperti itu." Ia menepuk bahu mereka satu per satu. "Tapi kalau suatu hari kalian pulang dan butuh pekerjaan, datang saja ke sini. Cari Bara."
+"Siap, Pak. Terima kasih banyak," ucap keduanya hampir bersamaan.
+Setelah Bara pergi, Rizwel dan Borgi berjalan ke sudut dermaga yang teduh. Mereka duduk di atas sebuah peti kayu tua sambil menunggu kapal sore itu tiba. Angin laut berembus pelan, mengeringkan keringat di wajah mereka.
+Borgi menghitung uangnya sebentar, lalu menyimpannya di dalam tas dan memeluk tasnya erat-erat.
+"Kali ini barangku tidak boleh tertinggal lagi," gumamnya.
+Rizwel tertawa. "Awas saja kalau tertinggal lagi."
+Mereka terdiam beberapa saat, memandangi laut yang berkilau jingga oleh cahaya sore. Borgi menatap tangannya yang memerah, lalu meregangkan bahunya sambil meringis.
+"Wel," panggilnya.
+"Hm?"
+"Kita baru kerja sehari saja, badanku sudah rasanya mau patah. Bayangkan kalau tiap hari kita kerja begini di dermaga. Pasti berat sekali. Ini kan kerjaan bapak-bapak."
+Rizwel tertawa terbahak-bahak sampai bahunya berguncang.
+"Hahaha! Kerjaan bapak-bapak? Gi, bukannya tadi kamu yang paling semangat bilang 'Ayooo!'?"
+"Itu kan tadi, waktu tenagaku masih penuh!" protes Borgi sambil memegangi pinggangnya.
+"Hahaha! Sudah, sudah. Kamu ini lucu sekali."
+Di sela tawanya, Rizwel diam-diam merasa kagum. Ia sadar bahwa upah yang mereka pegang hari itu berasal dari keringat dan tenaga mereka sendiri.
+Matahari semakin rendah. Dari kejauhan, tampak siluet sebuah kapal besar yang perlahan mendekat ke dermaga. Cahaya jingga memantul di badan kapal dan permukaan laut yang tenang.
+Rizwel berdiri dan menatap kapal itu dengan dada berdebar.
+"Gi, itu kapalnya."
+Borgi ikut berdiri dan menggenggam tiketnya erat-erat. Kali ini mereka tidak terlambat.
 
-Rizwel duduk di teras rumahnya yang sederhana, di Desa Sungai Limau, Pulau Laut. Di kejauhan, deburan ombak terdengar pelan bercampur kicauan burung dari arah kebun. Tangannya memegang segulung kecil uang hasil menabung berbulan-bulan. Ia sudah dua puluh tiga tahun, dan sudah lama ia memikirkan langkah ini.
 
-Dari ruang dalam, ibunya keluar membawa tempayan berisi air. Wanita itu berhenti sejenak saat melihat tas kanvas yang sudah tergeletak dekat pintu.
 
-"Kamu mau ke mana, Wel?" tanyanya, suaranya pelan tapi ada kekhawatiran yang tidak bisa disembunyikan.
 
-Rizwel menoleh. "Ke Surabaya, Bu. Aku sudah memutuskan. Kata tetangga, di sana pekerjaan yang layak lebih mudah dicari. Upahnya juga lebih cukup untuk membantu keluarga kita."
-
-Ibunya terdiam. Jari-jarinya menggenggam ujung kain sarung yang dipakainya untuk menyeka meja. Ia tahu anaknya sudah lama memikirkan ini. Ia juga tahu, di balik keputusan itu ada keinginan Rizwel untuk mengurangi beban yang selama ini dipikul orang tuanya.
-
-"Ayah kamu sudah ke kebun sejak subuh," katanya. "Tunggu sampai beliau pulang. Ada yang ingin kami sampaikan sebelum kamu pergi."
-
-Rizwel mengangguk. Ia menunggu.
-
-Matahari mulai condong ke barat ketika ayahnya tiba. Petani itu meletakkan cangkul di teras, lalu duduk di sebelah Rizwel. Ia tidak langsung bicara. Ia hanya menatap anaknya lama, seperti sedang mengukur apakah keputusan itu sudah benar-benar matang.
-
-"Kamu sudah dewasa," kata ayahnya akhirnya. "Ayah dan Ibu tidak akan melarang. Kalau kamu pergi, pergilah dengan niat yang baik. Jangan karena lari dari kesulitan, tapi karena kamu mau mencari jalan supaya keluarga ini lebih tenang."
-
-Rizwel menunduk. "Itu memang yang aku mau, Yah. Aku tidak ingin terus melihat Ayah dan Ibu bekerja keras tanpa pernah bisa berhenti sejenak."
-
-Ayahnya mengangguk pelan. Ia merogoh saku kausnya dan mengeluarkan beberapa lembar uang yang sudah dilipat rapi. Jumlahnya tidak besar, tapi ia menyerahkannya juga kepada Rizwel.
-
-"Ini bekal dari Ayah. Simpan baik-baik. Kalau nanti kamu kesulitan, jangan langsung pulang dengan kepala tertunduk. Coba dulu. Kami di sini akan menunggu kabar dari kamu."
-
-Ibunya menambahkan, hampir sambil menghela napas, "Dan jangan lupa makan. Di tempat baru, orang sakit itu mahal."
-
-Rizwel menerima uang itu dengan tangan yang sedikit gemetar. Ia memeluk keduanya, satu per satu. Tidak ada kata panjang. Yang ada hanyalah pelukan yang agak terlalu lama, dan aroma tanah serta daun yang masih menempel di pakaian ayahnya.
-
-Keesokan harinya, sebelum fajar, Rizwel sudah berdiri di dermaga. Tas kanvasnya yang lama sudah ia rapikan. Rambut dan kumisnya masih lebat, tapi ia sudah memotongnya semalam dengan gunting pinjaman dari tetangga, supaya tidak lagi terlihat seperti orang yang baru turun dari kapal bajak laut.
-
-Ia berdiri di dekat tiang pancang, menunggu kapal yang dikabarkan akan bersandar menuju Surabaya. Di dekatnya, seorang pemuda sebayanya sedang duduk di atas batang kayu, mengamati kapal-kapal kecil yang berlabuh.
-
-Pemuda itu menoleh. "Kamu juga mau naik kapal?"
-
-"Iya," jawab Rizwel. "Ke Surabaya. Cari kerja."
-
-"Namaku Borgi," kata pemuda itu, mengulurkan tangan. "Aku juga mau ke sana. Aku dengar dari orang-orang di warung, di Surabaya ada pelabuhan besar bernama Tanjung Perak. Katanya, di sekitar Pasar Bama masih banyak orang butuh tangan untuk bongkar muat."
-
-Rizwel menyambut uluran tangan itu. "Rizwel. Senang berkenalan."
-
-"Senang juga," kata Borgi. "Kalau kita berdua sampai sana, kita bisa cari kerja bareng. Aku sendiri belum tahu harus mulai dari mana."
-
-Mereka berbincang sampai kapal yang ditunggu akhirnya terlihat. Saat itulah Rizwel menceritakan alasannya dengan lebih terbuka: orang tuanya, kebun yang tidak pernah benar-benar memberi hasil cukup, dan keinginannya untuk suatu hari bisa pulang dengan membawa kabar baik.
-
-Borgi mendengarkan sampai selesai. Ia tidak memberi nasihat. Ia hanya mengangguk dan berkata, "Aku punya alasan hampir sama. Aku ingin keluargaku percaya bahwa aku juga bisa berusaha."
-
-Kapal itu mulai terlihat di kejauhan, lampunya berkedip di atas air. Rizwel dan Borgi mengangkat tas mereka, lalu berdiri bersama penumpang lain di dekat tangga. Di belakang mereka, Pulau Laut masih tampak hijau dan tenang. Di depan, laut terbentang luas.
-
-Mereka belum tahu bahwa beberapa jam sebelumnya, di perbukitan yang tidak jauh dari desa itu, api sudah mulai menjalar. Kabar itu belum sampai ke telinga mereka.
-
-CHAPTER II — BISIKAN DI BALIK DINDING
+BISIKAN DI BALIK DINDING
 
 Kapal besar itu akhirnya merapat di dermaga. Bunyi peluitnya menggema panjang, bergema di antara deru ombak dan teriakan para pekerja yang sibuk menurunkan tali tambat.
 "Wel, Wel! Itu kapalnya sudah benar-benar datang!" seru Borgi sambil menepuk-nepuk lengan Rizwel.
@@ -80,7 +507,7 @@ Rizwel bersandar pada pagar dan memandangi pulau itu dalam diam. Angin laut mene
 "Belum juga satu jam, tapi iya." Rizwel tersenyum getir. "Rasanya aneh. Aku selalu ingin pergi, tapi begitu pulau itu mulai jauh, dadaku jadi sesak."
 "Aku juga," jawab Borgi. Ia memandang ke arah yang sama. "Tadi pagi aku masih makan masakan Ibu, sekarang sudah di tengah laut. Cepat sekali ya hidup berubah."
 Mereka terdiam sejenak, membiarkan suara ombak mengisi jeda.
-"Kira-kira bagaimana ya, Gi, di Surabaya nanti?" tanya Rizwel.
+"Kira-kira bagaimana ya, Gi, di Jawa nanti?" tanya Rizwel.
 "Entahlah. Kata orang, di sana semuanya serba ramai. Jalannya ramai, gedungnya tinggi-tinggi, orangnya banyak."
 "Kata orang juga di sana kita harus bisa cari makan sendiri."
 "Berarti kita harus mulai dari nol, ya?"
@@ -218,7 +645,7 @@ Borgi mengembuskan napas panjang. Ia langsung duduk di tepi ranjang sambil mengu
 Rizwel tersenyum tipis, tetapi pikirannya masih tertuju pada percakapan yang mereka dengar.
 "Gi, kita harus memikirkan apa yang baru saja kita dengar."
 Borgi mengangkat wajahnya.
-"Memikirkan apa? Menurutku, lebih baik kita tidak ikut campur. Kita ini baru saja mau merantau. Belum punya pekerjaan, belum punya tempat tinggal tetap di Surabaya. Kalau sampai berurusan dengan orang-orang seperti mereka, bagaimana nasib kita?"
+"Memikirkan apa? Menurutku, lebih baik kita tidak ikut campur. Kita ini baru saja mau merantau. Belum punya pekerjaan, belum punya tempat tinggal tetap di Jawa. Kalau sampai berurusan dengan orang-orang seperti mereka, bagaimana nasib kita?"
 Rizwel terdiam.
 Ia memahami kekhawatiran Borgi. Mereka bukan orang berpengaruh. Mereka hanya dua pemuda yang baru saja meninggalkan kampung halaman dengan harapan mendapatkan kehidupan lebih baik.
 Namun, ada sesuatu yang mengganjal dalam hatinya.
@@ -247,13 +674,13 @@ Kapal bergoyang sedikit ketika melewati gelombang yang lebih besar. Dari luar ka
 Borgi kembali berbaring, tetapi matanya masih terbuka.
 "Wel, menurutmu, kenapa mereka membicarakan semua itu di kapal?"
 Rizwel menutup buku catatannya.
-"Mungkin mereka sedang dalam perjalanan menuju tempat lain. Bisa jadi mereka akan mengurus sesuatu di Surabaya."
+"Mungkin mereka sedang dalam perjalanan menuju tempat lain. Bisa jadi mereka akan mengurus sesuatu di Jawa."
 "Berarti kita mungkin akan bertemu mereka lagi?"
 "Entahlah."
 Borgi menghela napas panjang.
 "Baru juga meninggalkan kampung halaman, sudah ada masalah seperti ini."
 Rizwel memandang jendela kecil di samping ranjang. Laut malam terbentang luas tanpa batas. Cahaya bulan sesekali terhalang awan, membuat permukaan air tampak semakin gelap.
-"Gi, mungkin perjalanan kita ke Surabaya tidak akan semudah yang kita bayangkan."
+"Gi, mungkin perjalanan kita ke Jawa tidak akan semudah yang kita bayangkan."
 Borgi menoleh.
 "Memangnya kamu baru sadar?"
 Rizwel tertawa kecil.
@@ -315,7 +742,7 @@ Borgi akhirnya membuka matanya dan duduk dengan rambut berantakan.
 "Memangnya kita sudah sampai?"
 "Belum. Tapi sepertinya tidak lama lagi."
 Borgi langsung bangkit.
-"Kalau begitu, aku harus mandi dulu. Jangan sampai orang Surabaya melihatku seperti orang yang baru keluar dari hutan."
+"Kalau begitu, aku harus mandi dulu. Jangan sampai orang Jawa melihatku seperti orang yang baru keluar dari hutan."
 "Memangnya sekarang kamu terlihat seperti apa?"
 "Seperti calon saudagar kaya."
 "Saudagar kaya yang rambutnya seperti sarang burung."
@@ -329,7 +756,7 @@ Borgi yang sedang mengikat tali tas memperhatikan.
 Rizwel menutup buku tersebut.
 "Untuk sekarang, belum. Kita belum tahu siapa mereka dan apa yang sebenarnya terjadi. Aku tidak mau kita mengambil keputusan hanya berdasarkan percakapan yang tidak sengaja kita dengar."
 Borgi mengangguk.
-"Baguslah. Aku juga tidak mau perjalanan pertama kita ke Surabaya berakhir dengan masalah."
+"Baguslah. Aku juga tidak mau perjalanan pertama kita ke Jawa berakhir dengan masalah."
 Rizwel memasukkan buku catatan itu ke dalam tas.
 "Tapi aku tetap ingin tahu siapa mereka."
 "Wel, jangan bilang kamu mau menguping lagi?"
@@ -383,7 +810,7 @@ Dari kejauhan, daratan mulai terlihat semakin jelas.
 Borgi menunjuk ke arah cakrawala.
 Rizwel mengikuti arah telunjuknya.
 Sebuah daratan luas terlihat membentang di hadapan mereka. Bangunan-bangunan mulai tampak samar, disusul beberapa kapal lain yang bergerak di sekitar pelabuhan.
-"Itu Surabaya?" tanya Borgi.
+"Itu Jawa?" tanya Borgi.
 "Sepertinya iya."
 Borgi tersenyum lebar.
 "Akhirnya!"
@@ -427,7 +854,7 @@ Borgi mengulurkan kepalan tangannya.
 Rizwel mengadukan kepalan tangannya pada kepalan Borgi.
 "Seperti janji kita kemarin."
 Mereka kembali memandang daratan.
-Kali ini, Surabaya bukan lagi sekadar nama tempat yang sering mereka dengar dari cerita orang-orang. Surabaya kini berada tepat di hadapan mereka, menunggu untuk dijelajahi.
+Kali ini, Jawa bukan lagi sekadar nama tempat yang sering mereka dengar dari cerita orang-orang. Jawa kini berada tepat di hadapan mereka, menunggu untuk dijelajahi.
 Tidak lama kemudian, suara pengumuman terdengar dari pengeras suara kapal.
 "Perhatian kepada seluruh penumpang. Kapal sebentar lagi akan memasuki kawasan pelabuhan. Kami mengimbau seluruh penumpang untuk memeriksa kembali barang bawaan masing-masing dan bersiap menuju area turun. Harap mengikuti arahan petugas."
 Mendengar pengumuman itu, Borgi langsung berdiri tegak.
@@ -479,10 +906,10 @@ Borgi tertawa kecil.
 Keduanya melangkah turun.
 Sepatu mereka akhirnya menyentuh lantai dermaga.
 Mereka telah sampai.
-Surabaya.
+Jawa.
 Tempat yang selama ini hanya mereka dengar dari cerita orang-orang, kini menjadi tempat mereka akan berjuang mencari kehidupan.
 Borgi meletakkan tasnya sebentar dan menarik napas panjang.
-"Wel, jadi ini Surabaya?"
+"Wel, jadi ini Jawa?"
 "Iya, Gi. Tanah yang selama ini cuma kita dengar dari cerita orang."
 "Rasanya aneh. Kita sudah meninggalkan rumah, tapi sekarang aku justru merasa seperti orang yang tidak punya rumah."
 Rizwel menepuk bahu sahabatnya.
@@ -502,16 +929,24 @@ Sementara itu, Borgi berjalan di sampingnya sambil sesekali memperhatikan bangun
 Rizwel tersenyum sambil membetulkan posisi tas di pundaknya.
 "Kita cari jalan untuk memulai semuanya."
 Borgi mengangguk.
-Mereka pun melangkah semakin jauh, meninggalkan kapal yang telah membawa mereka menyeberangi lautan. Rahasia yang mereka dengar malam itu ikut turun bersama mereka, meski belum ada yang tahu ke mana jejaknya akan berujung.
+Mereka pun melangkah semakin jauh, meninggalkan kapal yang telah membawa mereka menyeberangi lautan.
+Di belakang mereka, kapal perlahan mulai bersiap untuk perjalanan berikutnya.
+Sementara di depan, sebuah kehidupan baru telah menunggu.
+Perjalanan mereka memang telah berakhir di atas kapal, tetapi perjuangan sesungguhnya baru saja dimulai.
+Dan tanpa mereka sadari, rahasia yang mereka dengar malam itu mungkin belum benar-benar selesai mengikuti perjalanan mereka.
 
-CHAPTER III — LANGKAH PERTAMA DI TANAH RANTAU
+
+
+
+LANGKAH PERTAMA DI TANAH RANTAU
 
 Hari Pertama — Kota yang Asing
-Kaki mereka baru saja menginjak dermaga Tanjung Perak. Mesin kapal masih terdengar samar di belakang, sementara keramaian sudah menyambut dari segala arah. Setelah perjalanan panjang meninggalkan Pulau Laut, akhirnya mereka benar-benar tiba di Surabaya.
+Suara mesin kapal perlahan mengecil setelah kapal benar-benar bersandar di pelabuhan. Para penumpang mulai beranjak dari tempat duduk mereka, mengambil barang bawaan, lalu berdesakan menuju pintu keluar. Dari atas kapal, Rizwel dan Borgi dapat melihat keramaian yang sejak tadi hanya tampak dari kejauhan.
+Setelah perjalanan panjang meninggalkan Pulau Laut, akhirnya mereka menginjakkan kaki di tanah Jawa.
 "Wel, akhirnya sampai juga kita," ucap Borgi sambil menghela napas panjang.
 Rizwel mengangguk. Ia berdiri sejenak, memandang ke arah pelabuhan yang dipenuhi orang-orang. Kendaraan pengangkut barang berlalu-lalang, para pedagang menawarkan dagangannya, sementara suara klakson terdengar dari berbagai arah.
 "Ramai sekali tempat ini," lanjut Borgi.
-"Namanya juga Tanjung Perak. Pasti banyak orang datang dan pergi."
+"Namanya juga pelabuhan besar. Pasti banyak orang datang dan pergi."
 Keduanya kemudian berjalan mengikuti arus penumpang yang keluar dari area pelabuhan. Masing-masing membawa tas sederhana berisi pakaian dan beberapa barang pribadi. Tidak banyak yang mereka miliki, tetapi semua itu merupakan bekal untuk memulai kehidupan baru.
 Sesampainya di luar area pelabuhan, mereka berhenti di pinggir jalan.
 "Terus sekarang kita ke mana?" tanya Borgi.
@@ -701,7 +1136,7 @@ Rizwel memandang uang yang tersisa.
 "Sampai keadaan kita membaik."
 Borgi tertawa kecil.
 "Jawabanmu selalu begitu."
-"Memangnya kamu punya jawaban lain?"
+"Memangnya kau punya jawaban lain?"
 Borgi menggeleng.
 Malam kembali datang. Mereka menghabiskan waktu dengan bercerita tentang rumah, keluarga, dan hal-hal kecil yang mereka rindukan dari Pulau Laut. Sesekali mereka tertawa mengingat kejadian selama dua hari terakhir.
 Walaupun hidup mereka belum banyak berubah, setidaknya mereka sudah mulai menemukan cara untuk bertahan.
@@ -814,9 +1249,9 @@ Setelah beberapa saat, Borgi menghampiri Rizwel.
 Rizwel menepuk bahunya.
 "Bagus. Coba saja. Siapa tahu ini bisa menjadi pengalaman baru buatmu."
 "Tapi aku masih belum mengerti apa yang harus kulakukan."
-"Makanya dengarkan arahan mereka. Jangan sampai nanti kamu malah melakukan hal yang berbeda."
+"Makanya dengarkan arahan mereka. Jangan sampai nanti kau malah melakukan hal yang berbeda."
 Borgi tertawa.
-"Baiklah. Tapi kamu mau ke mana?"
+"Baiklah. Tapi kau mau ke mana?"
 "Aku akan berjalan-jalan sebentar. Mungkin mencari pekerjaan lain atau melihat keadaan sekitar."
 Borgi mengangguk.
 "Kalau begitu, nanti kita bertemu lagi."
@@ -844,7 +1279,7 @@ Ketika sedang beristirahat sejenak, pedagang tersebut menghampirinya sambil memb
 Rizwel menerima gelas itu.
 "Terima kasih, Pak."
 "Kamu dan temanmu sebenarnya berasal dari mana?"
-"Kami dari Pulau Laut, Pak. Baru beberapa hari tiba di Surabaya."
+"Kami dari Pulau Laut, Pak. Baru beberapa hari tiba di Jawa."
 Pedagang itu tampak sedikit terkejut.
 "Jauh juga kalian merantau."
 "Iya, Pak. Kami memang ingin mencoba mencari kehidupan yang lebih baik di sini."
@@ -878,19 +1313,19 @@ Borgi menoleh.
 "Baru saja. Bagaimana pekerjaanmu hari ini?"
 "Masih sama seperti kemarin. Membantu mengangkat dan menyusun barang di toko grosir."
 Borgi tersenyum.
-"Setidaknya kamu sudah punya tempat untuk mencari uang."
+"Setidaknya kau sudah punya tempat untuk mencari uang."
 "Bagaimana denganmu? Jadi ikut syuting?"
 Borgi langsung mengubah posisi duduknya. Wajahnya terlihat lebih bersemangat.
 "Jadi! Tadi aku diajari beberapa hal. Ternyata menjadi pemain film tidak semudah yang kubayangkan."
 "Memangnya kenapa?"
 "Aku harus mengikuti arahan mereka. Kadang harus berdiri di posisi tertentu, mengulang gerakan, bahkan mengulang adegan berkali-kali hanya karena ada bagian yang kurang tepat."
 Rizwel tertawa.
-"Memangnya kamu melakukan kesalahan apa?"
+"Memangnya kau melakukan kesalahan apa?"
 Borgi menggaruk kepalanya.
 "Awalnya aku disuruh berjalan melewati kamera sambil membawa sebuah tas. Tapi entah bagaimana, aku malah berjalan ke arah yang salah."
 Rizwel langsung tertawa lebih keras.
 "Hahaha! Baru pertama kali sudah membuat masalah."
-"Jangan tertawa dulu. Kamu sendiri tadi malah tidak jadi masuk film."
+"Jangan tertawa dulu. Kau sendiri tadi malah tidak jadi masuk film."
 "Memang aku tidak cocok."
 Borgi ikut tertawa. Keduanya kemudian menghabiskan beberapa saat dengan saling menceritakan pengalaman masing-masing.
 Namun, setelah tawa mereka mereda, Rizwel kembali teringat pada sesuatu.
@@ -901,7 +1336,7 @@ Borgi mengangguk.
 "Aku juga memikirkan itu. Tidak mungkin kita terus tidur di taman."
 "Uang kita memang belum banyak, tapi setidaknya sekarang kita sudah mulai mendapatkan penghasilan. Kalau kita terus seperti ini, tubuh kita bisa kelelahan."
 Borgi melihat ke arah tas yang berada di sampingnya.
-"Lalu, kamu punya ide?"
+"Lalu, kau punya ide?"
 "Besok kita coba cari tempat yang bisa disewa. Tidak perlu bagus. Yang penting ada tempat untuk tidur, menyimpan barang, dan beristirahat."
 Borgi tersenyum.
 "Setuju. Asalkan tidak terlalu mahal."
@@ -974,13 +1409,13 @@ Borgi langsung menjatuhkan tubuhnya ke atas kasur.
 "Ah, akhirnya bisa tidur di tempat yang benar."
 Rizwel tertawa melihat tingkahnya.
 "Baru juga masuk, sudah langsung rebahan."
-"Memangnya kamu tidak senang? Dua malam tidur di taman, sekarang akhirnya punya kasur."
+"Memangnya kau tidak senang? Dua malam tidur di taman, sekarang akhirnya punya kasur."
 Rizwel duduk di sisi kasur.
 "Tentu saja senang. Tapi ingat, ini hanya untuk sementara. Kita tetap harus mencari pekerjaan yang lebih baik."
 Borgi mengangguk sambil mengangkat kedua tangannya.
 "Siap, Bos!"
 Mereka tertawa.
-Setelah merapikan barang-barang, keduanya beristirahat sejenak. Untuk pertama kalinya sejak tiba di Surabaya, mereka tidak perlu memikirkan di mana harus tidur malam nanti.
+Setelah merapikan barang-barang, keduanya beristirahat sejenak. Untuk pertama kalinya sejak tiba di Jawa, mereka tidak perlu memikirkan di mana harus tidur malam nanti.
 Mereka memang belum memiliki kehidupan yang mapan, tetapi setidaknya sekarang ada sebuah kamar kecil yang bisa mereka sebut sebagai tempat tinggal sementara.
 
 Menjelang siang, Borgi harus kembali ke lokasi syuting. Ia telah mendapatkan arahan untuk datang dan mencoba adegan berikutnya.
@@ -1023,7 +1458,7 @@ Pria tersebut memperkenalkan dirinya sebagai Pak Damar, salah satu pelatih yang 
 "Namamu siapa?"
 "Rizwel, Pak."
 "Rizwel. Dari mana asalmu?"
-"Saya dari Pulau Laut, Pak. Baru beberapa hari tiba di Surabaya."
+"Saya dari Pulau Laut, Pak. Baru beberapa hari tiba di Jawa."
 Pak Damar mengangguk.
 "Sedang mencari pekerjaan?"
 "Iya, Pak. Untuk sementara saya membantu di sebuah toko grosir."
@@ -1114,22 +1549,23 @@ Pak Damar pun mulai mengenali kebiasaannya.
 Rizwel bukanlah orang yang paling kuat di antara para pemuda yang berlatih di sana. Ia juga belum memiliki teknik yang baik. Bahkan, beberapa gerakan sederhana masih sering dilakukannya dengan keliru.
 Namun, ada satu hal yang menarik perhatian Pak Damar: Rizwel selalu berusaha memperbaiki kesalahannya.
 Ketika diberi arahan, ia mendengarkan. Ketika melakukan kesalahan, ia mencoba kembali. Dan ketika tubuhnya mulai kelelahan, ia belajar untuk mengatur napas sebelum melanjutkan latihan.
-CHAPTER IV — DI BALIK PINTU KESEMPATAN
-Beberapa hari kemudian, menjelang sore, matahari mulai turun di balik deretan bangunan. Cahaya jingganya menyentuh jalanan yang masih ramai oleh kendaraan dan orang-orang yang bergegas pulang. Di sebuah sasana tinju sederhana, Rizwel baru saja menyelesaikan latihan ringannya.
+CHAPTER VII — LANGKAH PERTAMA DI TANAH RANTAU
+Lanjutan dan Penutup
+Sore itu, matahari mulai turun di balik deretan bangunan. Cahaya jingganya menyentuh jalanan yang masih ramai oleh kendaraan dan orang-orang yang bergegas pulang. Di sebuah sasana tinju sederhana, Rizwel baru saja menyelesaikan latihan ringannya.
 Keringat membasahi kaus yang dikenakannya. Kedua lengannya terasa berat, sementara napasnya belum sepenuhnya teratur. Ia duduk di pinggir ring, mencoba mengatur kembali pernapasannya.
 Pak Damar menghampirinya sambil membawa sebotol air mineral.
 "Capek?" tanyanya.
 Rizwel menerima botol itu. "Lumayan, Pak."
-Pak Damar tersenyum tipis. "Memang begitu. Tinju bukan cuma soal memukul. Jaga napas dulu, baru pikirkan sisanya."
+Pak Damar tersenyum tipis. "Memang begitu. Tinju bukan cuma soal memukul. Kau harus belajar mengendalikan tubuh, menjaga keseimbangan, membaca gerakan lawan, dan yang paling penting, mengendalikan diri sendiri."
 Rizwel mengangguk. Ia mulai memahami bahwa latihan tinju tidak semudah yang selama ini dibayangkannya.
 Beberapa saat kemudian, Pak Damar duduk di sebelahnya.
-"Sudah beberapa kali saya lihat kamu datang ke sini. Kamu juga tidak pernah melewatkan kesempatan untuk belajar, meskipun masih banyak yang harus diperbaiki."
+"Sudah beberapa kali saya lihat kau datang ke sini. Kau juga tidak pernah melewatkan kesempatan untuk belajar, meskipun masih banyak yang harus diperbaiki."
 Rizwel menoleh.
 "Saya memang masih ingin belajar, Pak."
 "Itu sebabnya saya ingin mengajakmu bergabung dengan Klub Tinju Garuda."
 Rizwel terdiam sesaat. Ia tidak menyangka akan mendapatkan tawaran seperti itu.
 "Klub Tinju Garuda?" ulangnya memastikan.
-Pak Damar mengangguk. "Kami punya jadwal latihan rutin. Kalau kamu benar-benar ingin menekuni tinju, kamu bisa mulai bergabung. Nanti ada proses pendaftaran dan beberapa persyaratan yang perlu kita bicarakan. Termasuk pemeriksaan kondisi kesehatan sebelum mengikuti latihan yang lebih teratur."
+Pak Damar mengangguk. "Kami punya jadwal latihan rutin. Kalau kau benar-benar ingin menekuni tinju, kau bisa mulai bergabung. Nanti ada proses pendaftaran dan beberapa persyaratan yang perlu kita bicarakan. Termasuk pemeriksaan kondisi kesehatan sebelum mengikuti latihan yang lebih teratur."
 Rizwel memandang ke arah ring. Beberapa petinju lain masih berlatih. Ada yang memukul samsak, ada pula yang berlatih berpasangan dengan pelindung kepala.
 Ia tahu dirinya belum memiliki kemampuan seperti mereka. Bahkan, gerakan dasarnya saja masih sering keliru. Namun, untuk pertama kalinya sejak tiba di tanah rantau, ia merasa menemukan sesuatu yang ingin benar-benar diperjuangkannya.
 "Kalau memang diperbolehkan, saya mau mencoba, Pak."
@@ -1153,22 +1589,22 @@ Dalam perjalanan menuju taman, Borgi sesekali mengingat kembali kejadian hari it
 
 Ketika Borgi tiba di taman, Rizwel sudah duduk di bangku yang biasa mereka tempati.
 "Rizwel!"
-Rizwel menoleh. "Lama sekali kamu."
+Rizwel menoleh. "Lama sekali kau."
 Borgi menghampirinya sambil menjatuhkan tubuh ke bangku.
 "Namanya juga orang sibuk. Ada urusan perfilman yang harus diselesaikan."
-Rizwel tertawa kecil. "Urusan apa? Kamu sudah jadi bintang?"
+Rizwel tertawa kecil. "Urusan apa? Kau sudah jadi bintang?"
 "Bintang apanya? Aku malah hampir dimarahi karena salah berjalan."
 Keduanya tertawa.
 Borgi kemudian menoleh ke arah Rizwel. Ia memperhatikan kaus temannya yang basah oleh keringat dan kedua tangannya yang tampak sedikit kemerahan.
-"Kamu dari mana? Jangan bilang baru saja berkelahi."
+"Kau dari mana? Jangan bilang baru saja berkelahi."
 "Bukan. Aku dari sasana tinju."
 "Tinju lagi?"
 Rizwel mengangguk. "Aku sudah beberapa kali datang ke sana. Hari ini Pak Damar mengajakku bergabung dengan Klub Tinju Garuda."
 Borgi langsung membenarkan posisi duduknya.
-"Serius? Kamu diajak masuk klub?"
+"Serius? Kau diajak masuk klub?"
 "Masih ada pendaftaran dan beberapa persyaratan yang harus dipenuhi. Aku juga masih harus banyak belajar."
-"Tapi tetap saja, kamu sudah mendapatkan kesempatan."
-Rizwel tersenyum. "Kamu juga sudah mulai mendapatkan kesempatan di dunia film."
+"Tapi tetap saja, kau sudah mendapatkan kesempatan."
+Rizwel tersenyum. "Kau juga sudah mulai mendapatkan kesempatan di dunia film."
 Borgi mengangkat bahu. "Belum seberapa. Aku masih sering salah."
 "Namanya juga baru mulai."
 Mereka kembali terdiam sejenak. Di hadapan mereka, taman mulai dipenuhi orang-orang yang menghabiskan waktu setelah bekerja. Ada anak-anak yang berlarian, beberapa pedagang yang mendorong gerobak, dan orang-orang yang duduk bercengkerama di bawah lampu taman.
@@ -1183,7 +1619,7 @@ Rizwel tertawa mendengar perkataan itu.
 "Tenang saja. Aku belum berniat menjadi pengangguran."
 Mereka kembali tertawa. Namun, di balik canda itu, keduanya tahu bahwa perjalanan mereka masih panjang. Uang yang dimiliki belum banyak. Pekerjaan mereka belum menjanjikan kepastian. Bahkan, kesempatan yang baru saja datang pun belum tentu akan bertahan lama.
 Rizwel kemudian membuka pembicaraan.
-"Gi, menurutmu kita bisa berhasil di sini?"
+"Bor, menurutmu kita bisa berhasil di sini?"
 Borgi tidak langsung menjawab. Ia menatap lampu-lampu kendaraan yang bergerak melewati jalan di depan taman.
 "Entahlah. Aku juga belum tahu."
 Ia menoleh kepada Rizwel.
@@ -1195,8 +1631,8 @@ Rizwel tersenyum. "Tempat yang mana? Taman ini?"
 "Bukan cuma taman ini. Maksudku, jangan sampai lupa sama satu sama lain."
 Rizwel menepuk bahu Borgi.
 "Memangnya aku pernah lupa?"
-Borgi menyeringai. "Belum. Tapi siapa tahu kalau nanti kamu sudah jadi petinju terkenal."
-"Dan kamu jadi pemain film terkenal, lalu tidak mau mengenalku lagi."
+Borgi menyeringai. "Belum. Tapi siapa tahu kalau nanti kau sudah jadi petinju terkenal."
+"Dan kau jadi pemain film terkenal, lalu tidak mau mengenalku lagi."
 Keduanya kembali tertawa.
 Malam semakin larut. Setelah beberapa lama berbincang, mereka akhirnya memutuskan untuk pulang bersama menuju kamar kost yang mereka sewa.
 Di sepanjang jalan, mereka melewati toko-toko yang mulai tutup dan kendaraan yang masih berlalu-lalang. Kota itu tidak lagi terasa sepenuhnya asing, meskipun masih banyak hal yang belum mereka pahami.
@@ -1213,7 +1649,7 @@ DI BALIK PINTU KESEMPATAN
 Pagi datang dengan suara kendaraan yang mulai memenuhi jalanan. Dari jendela kecil kamar kost, cahaya matahari masuk melalui celah tirai yang sudah sedikit kusam. Suara pedagang keliling terdengar bersahutan dengan bunyi pintu-pintu toko yang mulai dibuka.
 Di dalam kamar sederhana itu, Rizwel sudah bangun lebih dahulu. Ia duduk di tepi kasur sambil mengikat tali sepatunya. Tubuhnya masih terasa sedikit pegal akibat latihan beberapa hari terakhir, terutama pada bagian bahu dan lengannya.
 Di sisi lain kasur, Borgi masih terbaring dengan selimut yang menutupi sebagian tubuhnya.
-"Gi, bangun. Sudah pagi."
+"Bor, bangun. Sudah pagi."
 Borgi hanya menggumam.
 "Sebentar lagi."
 Rizwel meliriknya. "Katanya hari ini mau ke tempat syuting."
@@ -1222,8 +1658,8 @@ Mendengar itu, Borgi langsung membuka mata. Ia bangkit dengan tergesa-gesa hingg
 Rizwel tertawa kecil. "Dari tadi juga sudah kubilang."
 Borgi segera merapikan pakaiannya. Ia mengambil kemeja yang tergantung di belakang pintu, kemudian memeriksa bagian depannya sebelum mengenakannya.
 Sementara itu, Rizwel memasukkan beberapa barang ke dalam tas kecilnya. Setelah memastikan tidak ada yang tertinggal, ia berdiri dan menghampiri pintu.
-"Kamu makan dulu sebelum berangkat," katanya.
-"Iya, iya. Kamu juga jangan lupa makan. Jangan sampai nanti latihan tinju malah pingsan."
+"Kau makan dulu sebelum berangkat," katanya.
+"Iya, iya. Kau juga jangan lupa makan. Jangan sampai nanti latihan tinju malah pingsan."
 "Yang penting bukan aku yang terlambat datang ke tempat kerja."
 Borgi melemparkan gulungan kaus ke arahnya. Rizwel menghindar sambil tertawa.
 Pagi itu mereka kembali memulai aktivitas masing-masing.
@@ -1236,7 +1672,7 @@ Pak Damar yang sedang mencatat sesuatu di meja kecil menoleh.
 "Ah, Rizwel. Bagaimana? Sudah siap membicarakan soal keanggotaan?"
 "Kalau memang masih diperbolehkan, saya ingin bergabung, Pak."
 Pak Damar meletakkan buku catatannya.
-"Tentu. Tapi sebelum mulai mengikuti latihan rutin, ada beberapa hal yang harus kamu ketahui."
+"Tentu. Tapi sebelum mulai mengikuti latihan rutin, ada beberapa hal yang harus kau ketahui."
 Ia kemudian menjelaskan mengenai jadwal latihan, aturan sasana, serta beberapa persyaratan yang perlu dipenuhi oleh anggota baru. Rizwel juga diminta menjalani pemeriksaan kondisi kesehatan terlebih dahulu untuk memastikan dirinya cukup siap mengikuti kegiatan latihan.
 Rizwel mendengarkan dengan saksama. Ia tidak banyak bertanya, tetapi sesekali mengangguk untuk menunjukkan bahwa ia memahami penjelasan tersebut.
 Setelah pembicaraan selesai, Pak Damar memperkenalkannya kepada beberapa anggota yang sedang berada di sana.
@@ -1278,7 +1714,7 @@ Arman duduk di sebelahnya.
 Rizwel tersenyum lelah.
 "Ternyata tidak semudah yang saya kira."
 Arman tertawa.
-"Memang tidak mudah. Tapi kalau kamu rajin datang, lama-lama tubuhmu akan terbiasa."
+"Memang tidak mudah. Tapi kalau kau rajin datang, lama-lama tubuhmu akan terbiasa."
 Rizwel mengangguk sambil mengusap wajahnya dengan handuk kecil.
 Untuk pertama kalinya, ia merasakan bagaimana rasanya menjadi bagian dari sebuah klub olahraga. Bukan sebagai penonton yang berdiri di luar ring, melainkan sebagai seseorang yang harus menjalani setiap proses di dalamnya.
 
@@ -1355,9 +1791,9 @@ Borgi mengangkat beberapa lembar uang.
 Rizwel tersenyum.
 "Setidaknya bisa membantu uang makan."
 Borgi memasukkan uang itu kembali ke dalam dompet kecilnya.
-"Kalau kamu sendiri bagaimana? Latihanmu semakin berat?"
+"Kalau kau sendiri bagaimana? Latihanmu semakin berat?"
 "Masih belajar dasar-dasarnya. Kadang aku merasa semua orang di sana sudah jauh lebih hebat."
-"Memangnya kamu mau langsung jadi juara?"
+"Memangnya kau mau langsung jadi juara?"
 Rizwel tertawa.
 "Tidak. Tapi rasanya aneh saja ketika melihat orang lain bisa melakukan sesuatu yang bahkan belum bisa kulakukan."
 Borgi mengangguk.
@@ -1398,7 +1834,7 @@ Setelah menyelesaikan makanannya, Rizwel kembali bekerja. Akan tetapi, bayangan 
 
 Malam harinya, Borgi sudah berada di kamar ketika Rizwel pulang.
 Ia sedang duduk di atas kasur sambil membersihkan sepatunya.
-"Kamu terlambat," ujar Borgi.
+"Kau terlambat," ujar Borgi.
 Rizwel meletakkan tasnya.
 "Tadi mampir makan."
 Borgi meliriknya.
@@ -1421,7 +1857,7 @@ Rizwel mengangguk.
 Ia lalu menceritakan kembali apa yang dilihatnya di televisi, termasuk gambar lahan yang menghitam dan penjelasan bahwa penyebab kebakaran di beberapa titik masih ditelusuri.
 Borgi mendengarkan tanpa menyela.
 Setelah Rizwel selesai bercerita, Borgi menatap lantai kamar.
-"Kamu masih ingat orang-orang yang kita dengar di kapal?"
+"Kau masih ingat orang-orang yang kita dengar di kapal?"
 Rizwel menoleh.
 "Masih."
 "Menurutmu, apa mereka ada hubungannya dengan kebakaran itu?"
@@ -1448,7 +1884,7 @@ Mereka masih memiliki banyak hal untuk dipelajari, banyak kegagalan untuk dilewa
 Rizwel belum menjadi petinju seperti yang ia impikan. Borgi juga belum menjadi bagian penting dari dunia perfilman.
 Tetapi keduanya mulai memahami satu hal: kesempatan tidak selalu datang dalam bentuk keberhasilan. Terkadang, kesempatan hanya berupa pintu kecil yang terbuka sedikit, sementara seseorang harus berusaha sendiri untuk melewatinya.
 Dan di tanah rantau itu, perjalanan mereka masih jauh dari kata selesai.
-CHAPTER V — KABAR DARI SEBERANG
+CHAPTER IX — KABAR DARI SEBERANG
 Pagi itu, aktivitas di kota kembali berjalan seperti biasanya. Kendaraan memenuhi jalanan, pedagang mulai membuka lapak, dan para pekerja bergegas menuju tempat masing-masing. Di antara keramaian tersebut, Rizwel berjalan menuju toko grosir tempat ia bekerja.
 Tas kecil tergantung di bahunya. Langkahnya sedikit lebih lambat dari biasanya karena tubuhnya masih terasa pegal setelah latihan tinju malam sebelumnya.
 Sesampainya di toko, ia langsung menyapa pemilik grosir yang sedang memeriksa beberapa barang kiriman.
@@ -1472,7 +1908,7 @@ Sopir itu menoleh dan tersenyum.
 Sopir itu tampak sedikit terkejut.
 "Jauh juga kamu merantau sampai sini."
 Rizwel tersenyum kecil. "Iya, Pak. Baru beberapa waktu."
-Keduanya kemudian berbincang singkat. Sopir itu bercerita bahwa ia sudah cukup lama bekerja di Surabaya dan sesekali masih pulang ke Kalimantan jika memiliki kesempatan.
+Keduanya kemudian berbincang singkat. Sopir itu bercerita bahwa ia sudah cukup lama bekerja di Jawa dan sesekali masih pulang ke Kalimantan jika memiliki kesempatan.
 Rizwel bertanya mengenai keadaan di kampung halaman. Namun, sopir tersebut tidak banyak mengetahui kondisi Pulau Laut secara khusus.
 "Kalau soal daerahmu, saya kurang tahu. Saya lebih sering berada di tempat kerja. Tapi belakangan memang sering terdengar kabar kebakaran lahan di beberapa wilayah Kalimantan Selatan."
 Rizwel terdiam sesaat.
@@ -1541,7 +1977,7 @@ Makanan yang dipesannya akhirnya datang. Rizwel mulai makan, meskipun pikirannya
 Malam itu, Borgi pulang lebih dahulu ke kamar kost.
 Ia meletakkan tas di dekat lemari kecil, kemudian duduk di atas kasur. Karena belum makan, ia mengambil beberapa barang dari meja dan mulai menyiapkan makanan sederhana.
 Tidak lama kemudian, Rizwel datang.
-"Kamu sudah pulang?" tanya Borgi.
+"Kau sudah pulang?" tanya Borgi.
 "Baru saja."
 Rizwel meletakkan tasnya, lalu duduk di kursi kecil dekat jendela.
 Borgi memperhatikannya.
@@ -1556,7 +1992,7 @@ Borgi menoleh lebih serius.
 "Maksudnya bagaimana?"
 "Katanya ada kawasan yang mungkin akan digunakan untuk pembangunan. Tapi berita itu tidak menjelaskan banyak hal."
 Borgi duduk di sampingnya.
-"Kamu yakin itu daerah dekat kampung kita?"
+"Kau yakin itu daerah dekat kampung kita?"
 "Belum tentu. Tidak ada nama kampung yang disebutkan."
 Borgi terdiam sejenak.
 "Entah kenapa, setiap mendengar berita seperti itu, aku selalu teringat kejadian di kapal."
@@ -1628,7 +2064,8 @@ Sementara itu, jauh dari kampung halaman, Rizwel dan Borgi masih menjalani kehid
 Mereka belum mengetahui perkembangan apa pun selain berita yang sempat mereka lihat. Mereka juga belum tahu bahwa di tempat yang pernah mereka tinggali, masih ada orang-orang yang menyimpan pertanyaan serupa.
 Kabar dari seberang telah sampai kepada mereka, tetapi belum membawa jawaban.
 Dan semakin banyak pertanyaan yang muncul, semakin jelas bahwa ada sesuatu yang belum selesai di tempat yang pernah mereka sebut rumah.
-CHAPTER VI — JEJAK YANG TERTINGGAL
+
+JEJAK YANG TERTINGGAL
 Pagi belum sepenuhnya tiba ketika kabut tipis masih menyelimuti sebagian wilayah di kampung halaman Rizwel dan Borgi. Udara terasa berbeda sejak kebakaran melanda kawasan hutan di sekitar sana. Bau tanah hangus terkadang masih tercium ketika angin berembus dari arah lahan yang terbakar.
 Di beberapa bagian, pepohonan yang dahulu berdiri tinggi kini hanya menyisakan batang-batang hitam. Tanah yang dulunya ditumbuhi semak dan pepohonan berubah menjadi hamparan cokelat kehitaman. Sebagian warga mulai kembali beraktivitas seperti biasa, tetapi bagi mereka yang tinggal paling dekat dengan kawasan itu, peristiwa kebakaran belum benar-benar berlalu.
 Pagi itu, beberapa warga berkumpul di teras rumah Pak Junaidi, seorang lelaki paruh baya yang tinggal tidak jauh dari jalan tanah menuju kawasan hutan. Mereka membicarakan kabar tentang lahan yang kabarnya akan dibuka kembali.
@@ -1874,7 +2311,8 @@ Di tempat yang jauh dari sana, Pak Junaidi masih menyimpan ingatan tentang kenda
 Jejak-jejak telah muncul, tetapi belum ada yang mampu menyatukannya menjadi sebuah jawaban.
 Dan di antara semua pertanyaan yang tertinggal, satu hal masih belum berubah: tidak seorang pun benar-benar tahu siapa yang bertanggung jawab atas api yang pernah melahap tanah itu.
 
-CHAPTER VII — RAHASIA DI BALIK LAHAN
+CHAPTER XI
+RAHASIA DI BALIK LAHAN
 Pagi itu, Rizwel datang lebih awal ke grosir. Udara masih terasa sejuk ketika ia membuka pintu bagian belakang toko dan mulai memindahkan beberapa kardus yang baru saja tiba.
 Pekerjaan seperti itu sudah menjadi bagian dari kesehariannya. Mengangkat barang, menyusun persediaan, membersihkan gudang, lalu membantu pelanggan ketika toko mulai ramai. Tidak banyak yang berubah sejak pertama kali ia bekerja di sana.
 Namun, ada satu hal yang mulai ia rasakan belakangan ini.
@@ -2139,7 +2577,18 @@ Namun, satu hal perlahan terlihat.
 Kebakaran itu mungkin telah berhenti.
 Tetapi persoalan yang ditinggalkannya belum benar-benar selesai.
 
-CHAPTER VIII — ORANG-ORANG YANG DIBUNGKAM
+
+
+
+
+
+
+
+
+
+
+CHAPTER XII
+ORANG-ORANG YANG DIBUNGKAM
 Pagi itu, suasana kampung terasa lebih ramai dari biasanya. Beberapa kendaraan melintas di jalan utama, sementara warga mulai membuka warung dan menjalankan pekerjaan masing-masing.
 Namun, di balik aktivitas yang tampak biasa, ada sesuatu yang berubah.
 Sejak kabar mengenai pengukuran lahan mulai menyebar, pembicaraan warga tidak lagi sebebas sebelumnya. Orang-orang yang dahulu sering membicarakan kebakaran kini lebih berhati-hati ketika menyebutnya. Bahkan, beberapa di antara mereka memilih mengganti topik setiap kali ada orang asing yang datang.
@@ -2200,7 +2649,7 @@ Ia memperhatikan nomor bidang tanah, batas wilayah, dan beberapa keterangan yang
 Semakin lama ia melihatnya, semakin besar keinginannya untuk mendapatkan penjelasan.
 Namun, semakin besar pula keraguannya tentang siapa yang bisa ia percaya.
 
-Di Surabaya, Rizwel mulai menghadapi persoalan yang berbeda.
+Di Jawa, Rizwel mulai menghadapi persoalan yang berbeda.
 Beberapa hari terakhir, ia merasa tubuhnya tidak lagi sekuat biasanya. Pekerjaan di grosir yang menguras tenaga ditambah latihan tinju membuat waktu istirahatnya semakin sedikit.
 Pagi itu, ia datang ke tempat kerja dengan gerakan yang sedikit lebih lambat.
 Pemilik grosir memperhatikannya ketika ia mengangkat sebuah kardus.
@@ -2355,7 +2804,7 @@ Sebelum tidur, ia menyimpan kembali dokumen tersebut ke dalam sebuah map.
 Ia tidak tahu apakah usahanya akan membawa hasil.
 Tetapi ia tidak ingin pertanyaan itu hilang begitu saja.
 
-Di Surabaya, Rizwel dan Borgi mulai kembali menjalani rutinitas mereka.
+Di Jawa, Rizwel dan Borgi mulai kembali menjalani rutinitas mereka.
 Bahunya Rizwel berangsur membaik setelah beberapa hari mengurangi latihan. Pak Damar belum mengizinkannya mengikuti latihan berat, tetapi ia sudah bisa kembali mempelajari gerakan dasar secara perlahan.
 Borgi juga kembali mendapatkan kesempatan kecil dalam sebuah produksi. Ia masih belum mendapatkan peran besar, tetapi kali ini ia berhasil menyelesaikan adegannya tanpa harus mengulang terlalu banyak.
 Ketika keduanya bertemu di kamar kost, Borgi menceritakan pengalamannya dengan penuh semangat.
@@ -2415,7 +2864,12 @@ Dan terkadang, sesuatu yang paling sulit dilawan bukanlah ancaman yang disampaik
 Di kampung itu, semakin banyak orang mulai memilih diam.
 Tetapi diam tidak selalu berarti mereka telah melupakan apa yang terjadi.
 
-CHAPTER IX — DI ANTARA KEBERANIAN DAN KETAKUTAN
+
+
+
+
+CHAPTER XIII
+DI ANTARA KEBERANIAN DAN KETAKUTAN
 Pagi itu, Hasan berdiri cukup lama di depan rumahnya. Di tangannya terdapat sebuah map berisi salinan dokumen yang beberapa minggu terakhir terus ia periksa. Ia sudah membaca lembaran-lembaran itu berkali-kali, mencoba memahami setiap nomor, tanggal, dan keterangan yang tercantum di dalamnya.
 Namun, semakin sering ia membacanya, semakin banyak pertanyaan yang muncul.
 Ia tidak tahu apakah tanah keluarganya benar-benar masuk dalam rencana pemanfaatan lahan. Ia juga belum mengetahui siapa yang membuat dokumen tersebut dan atas dasar apa nama keluarganya bisa tercantum di sana.
@@ -2476,7 +2930,7 @@ Tidak ada keputusan besar yang diambil hari itu.
 Namun, setidaknya, mereka tidak lagi hanya berbicara di antara sesama warga.
 Mereka mulai bersiap untuk menyampaikan pertanyaan kepada pihak yang dapat memberikan jawaban.
 
-Di Surabaya, Rizwel sedang menjalani latihan yang cukup berbeda dari biasanya.
+Di Jawa, Rizwel sedang menjalani latihan yang cukup berbeda dari biasanya.
 Setelah beberapa hari mengurangi aktivitas akibat rasa sakit pada bahunya, ia mulai kembali mengikuti latihan secara bertahap.
 Pak Damar mengawasinya dari dekat.
 “Bagaimana bahunya?”
@@ -2707,7 +3161,24 @@ Di tempat yang jauh, dua pemuda masih berusaha membangun kehidupan.
 Keduanya berjalan di jalan yang berbeda, tetapi sama-sama membawa sesuatu yang belum selesai.
 Dan waktu terus bergerak, tanpa pernah menjanjikan bahwa semua pertanyaan akan menemukan jawabannya.
 
-CHAPTER X — KEBENARAN YANG TERBAKAR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAPTER XIV
+KEBENARAN YANG TERBAKAR
 Pagi itu, Hasan berdiri di depan rumahnya sambil memandangi sebuah amplop yang baru saja diterimanya. Amplop tersebut berisi tanggapan atas permohonan informasi yang sebelumnya diajukan bersama beberapa warga.
 Ia membukanya perlahan.
 Di dalamnya terdapat beberapa lembar kertas yang menjelaskan bahwa informasi mengenai status lahan masih memerlukan pemeriksaan lebih lanjut. Beberapa data yang diajukan belum cukup untuk memastikan kesesuaian batas wilayah dan status bidang tanah yang dipertanyakan.
@@ -2779,7 +3250,7 @@ Namun, perasaan curiga tidak bisa menggantikan bukti.
 Keduanya akhirnya meninggalkan tempat itu.
 Di belakang mereka, pekerjaan tetap berlangsung seperti biasa.
 
-Di Surabaya, Rizwel sedang mempersiapkan diri untuk latihan yang cukup penting.
+Di Jawa, Rizwel sedang mempersiapkan diri untuk latihan yang cukup penting.
 Beberapa minggu terakhir, Pak Damar mulai memberikan latihan yang sedikit lebih menantang. Setelah melihat perkembangan dasar Rizwel, ia merasa sudah waktunya anak itu mengenal latihan berpasangan secara lebih teratur.
 Namun, Pak Damar tetap tidak ingin terburu-buru.
 Sore itu, Rizwel tiba di sasana dan melihat Arman sedang mengenakan sarung tinju.
@@ -3101,7 +3572,16 @@ Ia hanya berdiri dan memperhatikan sampai suara mesin benar-benar menghilang.
 Malam kembali sunyi.
 Dan di atas tanah yang pernah dilalap api itu, sesuatu terus bergerak tanpa pernah benar-benar menjelaskan ke mana arah semuanya akan berakhir.
 
-CHAPTER XI — TANAH YANG HARUS DIPULIHKAN
+
+
+
+
+
+
+
+
+CHAPTER XV
+TANAH YANG HARUS DIPULIHKAN
 Beberapa bulan telah berlalu sejak Rizwel dan Borgi pertama kali menginjakkan kaki di tanah rantau.
 Kota yang dahulu terasa begitu asing perlahan mulai mereka kenali. Jalan-jalan yang semula membingungkan kini memiliki nama yang mereka ingat. Warung tempat mereka biasa makan sudah menjadi tempat singgah sepulang bekerja. Bahkan suara kendaraan yang dulu membuat mereka sulit tidur, kini seolah menjadi bagian dari kehidupan sehari-hari.
 Namun, tidak semua hal berubah menjadi lebih mudah.
@@ -3317,4 +3797,3 @@ Di tanah yang pernah terbakar itu, tunas-tunas kecil terus tumbuh di antara sisa
 Hujan terus turun, membasahi keduanya tanpa membedakan mana yang pernah rusak dan mana yang baru saja ditandai.
 Dan di antara tanah yang mulai menghijau dan lahan yang perlahan berubah, tidak seorang pun benar-benar tahu seperti apa wajah kampung itu kelak.
 TAMAT
-
