@@ -385,15 +385,6 @@ export default function RegisterPage() {
               </Link>
             </p>
           </div>
-
-          <div className="flex w-full flex-col items-center justify-between gap-3 border-t border-gray-200 pt-6 text-xs text-gray-500 sm:flex-row">
-            <span>&copy; 2026 GOR Eco Sports. Hak cipta dilindungi.</span>
-            <div className="flex items-center gap-4">
-              <Link to="/#bantuan" className="transition-colors hover:text-gray-800">Kebijakan Privasi</Link>
-              <Link to="/#bantuan" className="transition-colors hover:text-gray-800">Ketentuan Layanan</Link>
-              <Link to="/#bantuan" className="transition-colors hover:text-gray-800">Pusat Bantuan</Link>
-            </div>
-          </div>
         </div>
       </div>
     </main>

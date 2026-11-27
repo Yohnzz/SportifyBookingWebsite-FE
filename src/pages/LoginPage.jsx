@@ -283,18 +283,6 @@ export default function LoginPage() {
             </p>
           </div>
         </div>
-
-        {/* Mini footer */}
-        <div className="mt-8 flex flex-col items-center justify-between gap-2 border-t border-[#E5E7EB]/70 pt-4 text-[11px] text-[#6B7280] sm:flex-row">
-          <p>&copy; 2026 GOR Eco Sports. Hak cipta dilindungi.</p>
-          <div className="flex items-center gap-3">
-            <Link to="/#bantuan" className="transition-colors hover:text-[#1F2937]">Kebijakan Privasi</Link>
-            <span>&bull;</span>
-            <Link to="/#bantuan" className="transition-colors hover:text-[#1F2937]">Ketentuan Layanan</Link>
-            <span>&bull;</span>
-            <Link to="/#bantuan" className="transition-colors hover:text-[#1F2937]">Pusat Bantuan</Link>
-          </div>
-        </div>
       </div>
     </main>
   )

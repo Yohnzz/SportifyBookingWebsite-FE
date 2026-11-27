@@ -33,10 +33,14 @@ function ScrollManager() {
 }
 
 export default function App() {
+  const location = useLocation()
+  // Halaman Login & Register tampil mandiri: tanpa header & footer, hanya form.
+  const isAuthPage = location.pathname === '/login' || location.pathname === '/register'
+
   return (
     <div className="flex min-h-screen flex-col">
       <ScrollManager />
-      <Navbar />
+      {!isAuthPage && <Navbar />}
 
       <div className="flex flex-1 flex-col">
         <Routes>
@@ -55,7 +59,7 @@ export default function App() {
         </Routes>
       </div>
 
-      <Footer />
+      {!isAuthPage && <Footer />}
     </div>
   )
 }
